@@ -9,28 +9,40 @@
 ## Course Text and Materials
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
+I will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
+
+We will be using Github for me to distribute course materials, and for you to manage your project files. You will need to sign up for a [Github Student Developer](https://education.github.com/pack) pack, which we'll discuss during week 1. 
+
 ## Important RIT Deadlines
-- Last day of add/drop is 29 August 2016.
-- Last day to withdraw with a grade of “W” is 11 November 2016.
+- Last day of add/drop is 30 January 2017.
+- Last day to withdraw with a grade of “W” is 21 April 2017.
 
 ## Course Description 
 This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design. 
 
 ## Assignments
-These are brief descriptions of each of the assignments. For each assignment you will receive a more detailed assignment sheet with specific requirements. 
-### Project 1 (xx% of final grade)
+These are brief descriptions of each of the assignments. For each assignment you will receive a more detailed assignment sheet with specific requirements. All assignments must be submitted by 11:59pm on the due date. 
+
+### Project 1: Personal Page for Class (10% of final grade, due 3 Feb 2017)
 Personal page project details.
 
-### In-Class Exercises
-Every Thursday there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to the exercise. Exercises and homework will be always be uploaded to myCourses, with information on their required submission date and time.  
+### Project 2: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
 
-### Weekly Quizzes
+### Project 3: Individual JS-focused Project TBD (20% of final grade, due 15 April 2017)
 
-### Final Practical Exam
-Pass/fail practical details
+### Project 4: Group Project (20% of final grade, due finals week)
+
+## In-Class Exercises (20% of final grade)
+Every Thursday there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to th=e exercise. Exercises and homework will be always be uploaded to that week's folder in this repository, with information on their required submission date and time. They will also be announced in the class Slack. 
+
+## Class Participation (10% of final grade)
+You are expected to attend class regularly, and to participate in the class Slack. Both count towards your participation grade. 
+
+## Final Practical Exam (pass/fail -- not included in final grade)
+There will be a final practical exam in the class, which will require you to demonstrate proficiency with the technologies we've covered during the semester. It is a pass/fail practical; if you receive at least 7/10 points, you pass the exam. If you fail the exam, you will have an opportunity to retake it during finals week, although you will need to earn at least 8/10 points to pass the second time. If you do not pass either exam, you will receive a failing grade in the class. If you do pass the exam, your exam grade will not impact your final grade in the class. 
 	
 ## Course Topics & Schedule
-The schedule of topics, readings, and assignments can be found in the Content section of the myCourses. It is your responsibility to check myCourses to find the appropriate readings for each class—remember there will often be a quiz on those readings at the start of class!
+The schedule of topics, readings, and assignments is in this document, with supplemental materials (such as handouts) in the weekly folders here on the Github repository. It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ### Week 1: Overview: Syllabus, Expectations, Tools
 Brief description of content/goals. 
@@ -59,7 +71,7 @@ Brief description of content/goals.
  
 ## Additional Policies
 ### Communication
-Any updates to assignments and any emails that I need to send to individual students will be done through MyCourses. This means you should regularly check your email and the MyCourses conference for this course.   I check email frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
+Any updates to assignments and any emails that I need to send to individual students will be done through MyCourses. This means you should regularly check your email and the Slack for this course. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or will include a grade penalty. 
 ### Missed Classes
