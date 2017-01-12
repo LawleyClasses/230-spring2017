@@ -31,21 +31,30 @@ Pass/fail practical details
 ## Course Topics & Schedule
 The schedule of topics, readings, and assignments can be found in the Content section of the myCourses. It is your responsibility to check myCourses to find the appropriate readings for each class—remember there will often be a quiz on those readings at the start of class!
 
-Week 1: Overview: Syllabus, Expectations, Tools
-Week 2: HTML & CSS, beyond the basics
-Week 3: Visual Design & Media Interactivity
-Week 4: Responsive Design
-Week 5: CSS Frameworks
-Week 6: Online Portfolios & Professional Web Workflow 
-Week 7: CSS Animation
-Week 8: Javascript Intro: Syntax, DOM, and Debuggers
-Week 10: Javacript Cont'd: Events/Listeners, CSS
-Week 11: JQuery
-Week 12: Client-Side Data Access & Site Security
-Week 13: Web Server Basics & .htaccess Files 
-Week 14: LAMP Concepts & WordPress Install
-Week 15: PHP & MySQL Basics
-Week 16: WordPress Themes
+### Week 1: Overview: Syllabus, Expectations, Tools
+Brief description of content/goals. 
+
+#### Readings:
+- Reading 1
+- Reading 2
+
+#### Exercises/Homework
+- Description
+
+### Week 2: HTML & CSS, beyond the basics
+### Week 3: Visual Design & Media Interactivity
+### Week 4: Responsive Design
+### Week 5: CSS Frameworks
+### Week 6: Online Portfolios & Professional Web Workflow 
+### Week 7: CSS Animation
+### Week 8: Javascript Intro: Syntax, DOM, and Debuggers
+### Week 10: Javacript Cont'd: Events/Listeners, CSS
+### Week 11: JQuery
+### Week 12: Client-Side Data Access & Site Security
+### Week 13: Web Server Basics & .htaccess Files 
+### Week 14: LAMP Concepts & WordPress Install
+### Week 15: PHP & MySQL Basics
+### Week 16: WordPress Themes
  
 ## Additional Policies
 ### Communication
