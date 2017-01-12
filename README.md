@@ -1,16 +1,17 @@
 # IGME-230 Web Design &amp; Implementation, Spring 2017
 
 ## Instructor and Class Details
-Professor Elizabeth Lawley  
-Office: GOL-2545
-Email: ell@mail.rit.edu
-Office hours: Tuesday/Thursday 2-4pm
+- Professor Elizabeth Lawley  
+- Office: GOL-2545
+- Email: Elizabeth.Lawley@rit.edu
+- Office hours: Tuesday/Thursday 12:30-2:30pm
 
 ## Course Text and Materials
-There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) the Content section in myCourses. 
-Important RIT Deadlines
-Last day of add/drop is 29 August 2016.
-Last day to withdraw with a grade of “W” is 11 November 2016.
+There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
+
+## Important RIT Deadlines
+- Last day of add/drop is 29 August 2016.
+- Last day to withdraw with a grade of “W” is 11 November 2016.
 
 ## Course Description 
 This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design. 
