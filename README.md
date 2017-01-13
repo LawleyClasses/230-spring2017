@@ -1,4 +1,4 @@
-# IGME-230 Web Design &amp; Implementation, Spring 2017
+# IGME-230 Web Design &amp; Implementation, Spring 2017: Syllabus
 
 ## Instructor and Class Details
 - Professor Elizabeth Lawley  
@@ -26,10 +26,9 @@ Listening to a lecture is seldom the best way to learn to create things. As a re
 Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict, please let me know, so I can make sure you have the materials for the exercise.  
 
 ## Grading
-Details on project assignments will be in the Github directory for that assignment. Details on exercises will be found in the weekly content folders. 
+Details on project assignments will be in the Github directory for that project. Details on exercises will be found in the weekly content folders. 
 
 ### Project 1: Personal Page for Class (10% of final grade, due 3 Feb 2017)
-Personal page project details.
 
 ### Project 2: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
 
@@ -49,32 +48,7 @@ There will be a final practical exam in the class, which will require you to dem
 ## Course Topics & Schedule
 The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
-### Week 1: Overview: Syllabus, Expectations, Tools
-I will review the syllabus, goals, and requirements for class. We will discuss the tools and technologies we'll be using for communication, collaboration, and content creation. 
 
-#### Readings
-- For Tuesday: This syllabus
-- For Thursday
-    [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
-
-#### Exercises/Homework
-- [Tuesday Exercises](week1/tuesdayExercise.md) Sign up for the (free) [Github Student Developer Pack](https://education.github.com/pack); you'll need the Github login and free private repositories for work later in the semester
-- Thursday Exercises Join the class Slack at [lawleywebdev.slack.com](https://lawleywebdev.slack.com/signup)
-
-### Week 2: HTML & CSS, beyond the basics
-### Week 3: Visual Design & Media Interactivity
-### Week 4: Responsive Design
-### Week 5: CSS Frameworks
-### Week 6: Online Portfolios & Professional Web Workflow 
-### Week 7: CSS Animation
-### Week 8: Javascript Intro: Syntax, DOM, and Debuggers
-### Week 10: Javacript Cont'd: Events/Listeners, CSS
-### Week 11: JQuery
-### Week 12: Client-Side Data Access & Site Security
-### Week 13: Web Server Basics & .htaccess Files 
-### Week 14: LAMP Concepts & WordPress Install
-### Week 15: PHP & MySQL Basics
-### Week 16: WordPress Themes
  
 ## Additional Policies
 
