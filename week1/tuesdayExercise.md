@@ -1,1 +1,0 @@
-# Placeholder for Week 1 Tuesday Exercise
