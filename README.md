@@ -4,55 +4,62 @@
 - Professor Elizabeth Lawley  
 - Office: GOL-2545
 - Email: Elizabeth.Lawley@rit.edu
-- Office hours: Tuesday/Thursday 12:30-2:30pm
+- Office hours: Tuesday/Thursday 12:45-2:45pm
+- Class meetings: Tuesday/Thursday 11-12:15
 
-## Course Text and Materials
+## Course Description 
+This course provides an introduction to web development tools and technologies, such as X/HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.
+
+## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
 I will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
 
-We will be using Github for me to distribute course materials, and for you to manage your project files. You will need to sign up for a [Github Student Developer](https://education.github.com/pack) pack, which we'll discuss during week 1. 
+All course materials and example code will be distributed via Github, and you will also be learning how to use Git and Github to manage your own exercise and project files. We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We'll be discussing both of these tools in week 1. 
 
-## Important RIT Deadlines
-- Last day of add/drop is 30 January 2017.
-- Last day to withdraw with a grade of “W” is 21 April 2017.
+MyCourses will *only* be used for grading, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
-## Course Description 
-This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design. 
+## Course Organization
+Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials before class. On most Tuesdays, I will give a short lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to practice the skills. On Thursdays where a new topic is introduced, we'll repeat that process. If Thursday is a continuation of Tuesday's topic, I will distribute the exercise in advance of class, and you will have the option to complete and submit it *before* the start of class on Thursday, or to attend and complete it during Thursday's class. 
 
-## Assignments
-These are brief descriptions of each of the assignments. For each assignment you will receive a more detailed assignment sheet with specific requirements. All assignments must be submitted by 11:59pm on the due date. 
+## Attendance
+Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict, please let me know, so I can make sure you have the materials for the exercise.  
+
+## Grading
+Details on project assignments will be in the Github directory for that assignment. Details on exercises will be found in the weekly content folders. 
 
 ### Project 1: Personal Page for Class (10% of final grade, due 3 Feb 2017)
 Personal page project details.
 
 ### Project 2: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
 
-### Project 3: Individual JS-focused Project TBD (20% of final grade, due 15 April 2017)
+### Project 3: Tutorial Site Using Javascript (20% of final grade, due 15 April 2017)
 
-### Project 4: Group Project (20% of final grade, due finals week)
+### Project 4: Group Project: TBD (20% of final grade, due finals week)
 
-## In-Class Exercises (20% of final grade)
-Every Thursday there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to th=e exercise. Exercises and homework will be always be uploaded to that week's folder in this repository, with information on their required submission date and time. They will also be announced in the class Slack. 
+### In-Class Exercises (20% of final grade)
+Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, with information on their required submission date and time.
 
-## Class Participation (10% of final grade)
+### Class Participation (10% of final grade)
 You are expected to attend class regularly, and to participate in the class Slack. Both count towards your participation grade. 
 
-## Final Practical Exam (pass/fail -- not included in final grade)
-There will be a final practical exam in the class, which will require you to demonstrate proficiency with the technologies we've covered during the semester. It is a pass/fail practical; if you receive at least 7/10 points, you pass the exam. If you fail the exam, you will have an opportunity to retake it during finals week, although you will need to earn at least 8/10 points to pass the second time. If you do not pass either exam, you will receive a failing grade in the class. If you do pass the exam, your exam grade will not impact your final grade in the class. 
+### Final Practical Exam (pass/fail -- not included in final grade)
+There will be a final practical exam in the class, which will require you to demonstrate basic proficiency with the technologies we've covered during the semester. It is a pass/fail practical; if you receive at least 7/10 points, you pass the exam. If you fail the exam, you will have an opportunity to retake it during finals week, although you will need to earn at least 8/10 points to pass the second time. If you do not pass either exam, you will receive a failing grade in the class. If you do pass the exam, your exam grade will not impact your final grade in the class. 
 	
 ## Course Topics & Schedule
-The schedule of topics, readings, and assignments is in this document, with supplemental materials (such as handouts) in the weekly folders here on the Github repository. It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
+The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ### Week 1: Overview: Syllabus, Expectations, Tools
-Review syllabus, goals, and requirements for class. Brief discussion of tools and technologies we'll be using for communication, collaboration, and content creation.
+I will review the syllabus, goals, and requirements for class. We will discuss the tools and technologies we'll be using for communication, collaboration, and content creation. 
 
-#### Readings:
-- Reading 1
-- Reading 2
+#### Readings
+- For Tuesday: This syllabus
+- For Thursday
+    [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
 #### Exercises/Homework
-- Description
+- [Tuesday Exercises](week1/tuesdayExercise.md) Sign up for the (free) [Github Student Developer Pack](https://education.github.com/pack); you'll need the Github login and free private repositories for work later in the semester
+- Thursday Exercises Join the class Slack at [lawleywebdev.slack.com](https://lawleywebdev.slack.com/signup)
 
 ### Week 2: HTML & CSS, beyond the basics
 ### Week 3: Visual Design & Media Interactivity
@@ -70,6 +77,11 @@ Review syllabus, goals, and requirements for class. Brief discussion of tools an
 ### Week 16: WordPress Themes
  
 ## Additional Policies
+
+### Important RIT Deadlines
+- Last day of add/drop is 30 January 2017.
+- Last day to withdraw with a grade of “W” is 21 April 2017.
+
 ### Communication
 Any updates to assignments and any emails that I need to send to individual students will be done through MyCourses. This means you should regularly check your email and the Slack for this course. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
 ### Late Policy
