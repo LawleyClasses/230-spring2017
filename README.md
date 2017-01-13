@@ -45,7 +45,7 @@ There will be a final practical exam in the class, which will require you to dem
 The schedule of topics, readings, and assignments is in this document, with supplemental materials (such as handouts) in the weekly folders here on the Github repository. It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ### Week 1: Overview: Syllabus, Expectations, Tools
-Brief description of content/goals. 
+Review syllabus, goals, and requirements for class. Brief discussion of tools and technologies we'll be using for communication, collaboration, and content creation.
 
 #### Readings:
 - Reading 1
