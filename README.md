@@ -28,13 +28,15 @@ Because much of the class revolves around in-class exercises, attendance is crit
 ## Grading
 Details on project assignments will be in the Github directory for that project. Details on exercises will be found in the weekly content folders. 
 
-### Project 1: Personal Page for Class (10% of final grade, due 3 Feb 2017)
+### Projects (70% of grade)
 
-### Project 2: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
+- **Project 1**: Personal Page for Class (10% of final grade, due 3 Feb 2017)
 
-### Project 3: Tutorial Site Using Javascript (20% of final grade, due 15 April 2017)
+- **Project 2**: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
 
-### Project 4: Group Project: TBD (20% of final grade, due finals week)
+- **Project 3**: Tutorial Site Using Javascript (20% of final grade, due 15 April 2017)
+
+- **Project 4**: Group Project: TBD (20% of final grade, due finals week)
 
 ### In-Class Exercises (20% of final grade)
 Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, with information on their required submission date and time.
