@@ -7,7 +7,7 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
 - Course Syllabus
 
 ### Week 1 Tuesday Exercise
-In this exercise, you'll sign up for the (free) Github Student Developer Pack, and set up an account on the class Slack. [Instructions](week1/tuesdayExercise.md) are in the [week1 folder](week1/).
+In this exercise, you'll sign up for the (free) Github Student Developer Pack, and set up an account on the class Slack. Instructions are in the [tuesdayExercise](weekly_materials/week1/tuesdayExercise.md) file in the [week1 folder](weekly_materials/week1/).
 
 ### Week 1 Thursday Readings
 - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
