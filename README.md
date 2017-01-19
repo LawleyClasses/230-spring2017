@@ -10,6 +10,10 @@
 ## Course Description 
 This course provides an introduction to web development tools and technologies, such as X/HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.
 
+## Prerequisite Knowledge
+I expect students in this class to have a basic working knowledge of HTML, CSS, and publishing to RIT's web hosting environment (people.rit.edu). For GDD and New Media Interactive students, that material was covered in IGME-110. For New Media Design students, my understanding is that you have also taken a class that covers basic web technologies. More information and a review exercise can be found in the [week0 folder](weekly_materials/week0). 
+
+
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
