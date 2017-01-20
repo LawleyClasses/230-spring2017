@@ -14,15 +14,13 @@ Github accounts are free, but with a free account you can only have public repos
 
 Start by going to the [Github Student Developer Pack](https://education.github.com/pack) website. You can see a list there of all the perks you get--the most important one, and the only one you'll need for the class--is the unlimited private repos. 
 
-Click on the link to get the pack, and then reassure them that you're a student. You'll have to fill out a form providing your RIT email, your 
+Click on the link to get the pack, and fill out the form with your RIT email address and your expected graduation date. 
 
 ## Slack
 
-I've set up a Slack chat for our class at [http://lawleywebdev.slack.com/](http://lawleywebdev.slack.com/). Right now, it's set up so anyone with an @rit.edu address can create an account, just to make things easier. I'll disable that at the end of the week, so if you add the class late you'll need to request access to the Slack. 
+I've set up a Slack chat for our class at [http://lawleywebdev.slack.com/](http://lawleywebdev.slack.com/). Right now, it's set up so anyone with an @rit.edu address can create an account, just to make things easier. I'll disable that at the end of the week, so if you add the class late you'll need to request access. (Every Slack uses its own login, so if you use Slack with another group, your account/login there won't work for this one.)
 
 When you choose a user name, please make it something that my TA and I will be able to recognize easily in the chats. Your first name and last initial are ideal, although I'll accept your RIT ID as a username, as well. 
-
-Every Slack uses its own login, so if you use Slack for something else, your account/login there won't work for this one. 
 
 After you've successfully logged into Slack, post a brief message in the #introductions channel so I know you're there. 
 
@@ -30,4 +28,14 @@ After you've successfully logged into Slack, post a brief message in the #introd
 
 The text editor we'll be using in class for HTML, CSS, and Javascript is Visual Studio Code. It's free and cross-platform, and supports all of the technologies we'll be using the class. To get the most out of it, we're going to add some extensions. 
 
-After launching Visual Studio Code, 
+After launching Visual Studio Code, choose Extensions from the View menu. In the search box, find each of the following extensions and click the button to install them:
+
+- HTML CSS Support
+- HTML Snippets
+- HTMLHint
+- htmltagwrap
+- JS-CSS-HTML Formatter
+- Replace Smart Characters
+- stylelint
+
+We'll be talking in class about VS Code's built-in HTML tools (like Emmet), as well as the additional functionality that these extensions provide. 
