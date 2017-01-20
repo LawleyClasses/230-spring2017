@@ -28,16 +28,15 @@ After you've successfully logged into Slack, post a brief message in the #introd
 
 The text editor we'll be using in class for HTML, CSS, and Javascript is Visual Studio Code. It's free and cross-platform, and supports all of the technologies we'll be using the class. To get the most out of it, we're going to add some extensions. 
 
-After launching Visual Studio Code, choose Extensions from the View menu. In the search box, find each of the following extensions and click the button to install them:
+After launching Visual Studio Code, choose Extensions from the View menu. Using the search box, find and install each of the following extensions:
 
+- Hasher
 - HTML CSS Support
 - HTML Snippets
 - HTMLHint
 - htmltagwrap
-- JS-CSS-HTML Formatter
 - jshint
 - Replace Smart Characters
 - stylelint
-- View in Browser
 
 We'll be talking in class about VS Code's built-in HTML tools (like Emmet), as well as the additional functionality that these extensions provide. 
