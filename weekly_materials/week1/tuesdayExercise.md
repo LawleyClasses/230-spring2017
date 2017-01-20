@@ -8,9 +8,9 @@ We're going to use some class time today to get you set up with the communicatio
 
 If you're reading this, you've figured out how to get to our class content on Github. Congratulations! 
 
-Because these materials are in a public repository ("repo"), you don't need a Github account to access them. However, later in the semester you'll be learning how to use Github to keep track files for your own projects, so you'll need an account for that. 
+Because these materials are in a public repository ("repo"), you don't need a Github account to access them. However, later in the semester you'll be learning how to use Git and Github to keep track of files in your own projects, so you'll need an account for that. 
 
-Github accounts are free, but with a free account you can only have public repos, which means everybody can see all of your files. Since you'll be uploading files related to assignments, private repos make more sense. The good news is, Github offers a free "Student Development Pack" that gives you unlimited private repos. Because you need to verify your student status with Github in order to get this perk, I'm going to have you apply for that today. That way we can be sure you'll have a working account by the time you need to start putting your own files online (around week 5). 
+Github accounts are free, but with a free account you can only have public repos, which means everybody can see all of your files. Since you'll be uploading files related to assignments, private repos make more sense. Happily, Github offers a free "Student Development Pack" that gives you unlimited private repos. Because you need to verify your student status with Github in order to get this perk, I'm going to have you apply for that today. That way we can be sure you'll have a working account by the time you need to start putting your own files online (around week 5). 
 
 Start by going to the [Github Student Developer Pack](https://education.github.com/pack) website. You can see a list there of all the perks you get--the most important one, and the only one you'll need for the class--is the unlimited private repos. 
 
