@@ -35,7 +35,9 @@ After launching Visual Studio Code, choose Extensions from the View menu. In the
 - HTMLHint
 - htmltagwrap
 - JS-CSS-HTML Formatter
+- jshint
 - Replace Smart Characters
 - stylelint
+- View in Browser
 
 We'll be talking in class about VS Code's built-in HTML tools (like Emmet), as well as the additional functionality that these extensions provide. 
