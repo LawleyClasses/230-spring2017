@@ -17,7 +17,7 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
  - [Save Time and Keystrokes with Emmet in Visual Studio Code](https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/)
 
 - **Thursday Exercise**
- - We will review the functionality of VS Code in class, including   work together in class to take a text file and mark it up as valid HTML. 
+ - We will review the functionality of VS Code in class, including   work together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages.
 
 ## Week 2: HTML & CSS, beyond the basics
 A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
