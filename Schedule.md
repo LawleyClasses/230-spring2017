@@ -5,23 +5,50 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
 
 - **Tuesday Readings**
  - [Course Syllabus](README.md)
+ - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
 - **Tuesday Exercise**
- - In this exercise, you'll sign up for the (free) Github Student Developer Pack, and set up an account on the class Slack. Instructions are in the [tuesdayExercise](weekly_materials/week1/tuesdayExercise.md) file in the [week1 folder](weekly_materials/week1/).
+ - In this exercise, you'll sign up for the (free) Github Student Developer Pack,  set up an account on the class Slack, and configure Visual Studio Code for use in class. Instructions are in the [tuesdayExercise](weekly_materials/week1/tuesdayExercise.md) file in the [week1 folder](weekly_materials/week1/).
 
 - **Thursday Readings**
- - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
  - [Why Validate?](https://validator.w3.org/docs/why.html) from w3.org 
+ - [The Basics of Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
+ - [HTML Programming in VS Code](https://code.visualstudio.com/docs/languages/html)
+ - [Save Time and Keystrokes with Emmet in Visual Studio Code](https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/)
 
 - **Thursday Exercise**
- - I will provide you with some "broken" HTML and CSS files that you will need to correct and post to your people.rit.edu account. The files and instructions will be in the [week1 folder](weekly_materials/week1/).
+ - We will review the functionality of VS Code in class, including   work together in class to take a text file and mark it up as valid HTML. 
 
 ## Week 2: HTML & CSS, beyond the basics
-## Week 3: Visual Design & Media Interactivity
-## Week 4: Responsive Design
-## Week 5: CSS Frameworks
-## Week 6: Online Portfolios & Professional Web Workflow 
-## Week 7: CSS Animation
+A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
+
+- **Tuesday Readings**
+ - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
+ 
+- **Thursday Readings**
+ - [Lynda.com CSS Positioning Best Practices, Lessons 1-2](https://www.lynda.com/CSS-tutorials/positioning-best-practices/47543-2.html?org=rit.edu)
+  - [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp)
+  - [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+  
+## Week 3: Web Design & Accessibility
+When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. (Your first project is due at the end of this week.)
+
+## Week 4: Information Architecture
+Creating a good website means making sure that you've effectively organized and structured your content, a process known as information architecture. We'll talk about IA this week, and discuss issues related to organizing content on the web. 
+
+## Week 5: CSS In-Depth
+Curent versions of CSS allow us to do far more than simply changing the basic appearance and positioning of items on a page. This week we'll be looking at more advanced CSS techniques, including CSS animations, transitions, and media types. 
+
+- **Tuesday Readings**
+ - [Lynda.com CSS:Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html?org=rit.edu)
+ 
+- **Thursday Readings**
+ - [Lynda.com CSS Fundamentals, Media Types & Queries](https://www.lynda.com/CSS-tutorials/Media-types-media-queries/417645/484795-4.html?org=rit.edu)
+ - [Lynda.com CSS Fundamentals, CSS Resets](https://www.lynda.com/CSS-tutorials/Media-types-media-queries/417645/484795-4.html?org=rit.edu)
+
+
+## Week 6: Responsive Design & CSS Frameworks
+## Week 7: Online Portfolios & Web Workflow 
 ## Week 8: Javascript Intro: Syntax, DOM, and Debuggers
 ## Week 10: Javacript Cont'd: Events/Listeners, CSS
 ## Week 11: JQuery
