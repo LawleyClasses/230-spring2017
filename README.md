@@ -21,7 +21,7 @@ I will be assigning a number of tutorials from the [Lynda.com](http://lynda.com)
 
 All course materials and example code will be distributed via Github, and you will also be learning how to use Git and Github to manage your own exercise and project files. We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We'll be discussing both of these tools in week 1. 
 
-MyCourses will *only* be used for grading, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
+MyCourses will *only* be used for grading (and the occasional copyrighted reading), not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
 Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials before class. On most Tuesdays, I will give a short lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to practice the skills. On Thursdays where a new topic is introduced, we'll repeat that process. If Thursday is a continuation of Tuesday's topic, I will distribute the exercise in advance of class, and you will have the option to complete and submit it *before* the start of class on Thursday, or to attend and complete it during Thursday's class. 
@@ -52,7 +52,7 @@ You are expected to attend class regularly, and to participate in the class Slac
 There will be a final practical exam in the class, which will require you to demonstrate basic proficiency with the technologies we've covered during the semester. It is a pass/fail practical; if you receive at least 7/10 points, you pass the exam. If you fail the exam, you will have an opportunity to retake it during finals week, although you will need to earn at least 8/10 points to pass the second time. If you do not pass either exam, you will receive a failing grade in the class. If you do pass the exam, your exam grade will not impact your final grade in the class. 
 	
 ## Course Topics & Schedule
-The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check GitHub and/or Slack regularly for each week's materials. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
+The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 
  
