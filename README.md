@@ -34,7 +34,7 @@ Details on project assignments will be in the Github directory for that project.
 
 ### Projects (70% of grade)
 
-- **Project 1**: Personal Page for Class (10% of final grade, due 3 Feb 2017)
+- **[Project 1](./projects/project1.md)**: Personal Page for Class (10% of final grade, due 4 Feb 2017)
 
 - **Project 2**: Personal Portfolio Using Frameworks (20% of final grade, due 19 March 2017)
 
