@@ -7,12 +7,11 @@
 - Office hours: Tuesday/Thursday 10-11am and 2-3pm 
 - Class meetings: Tuesday/Thursday 11-12:15
 
-## Course Description 
+## Course Catalog Description 
 This course provides an introduction to web development tools and technologies, such as X/HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.
 
 ## Prerequisite Knowledge
 I expect students in this class to have a basic working knowledge of HTML, CSS, and publishing to RIT's web hosting environment (people.rit.edu). For GDD and New Media Interactive students, that material was covered in IGME-110. For New Media Design students, my understanding is that you have also taken a class that covers basic web technologies. More information and a review exercise can be found in the [week0 folder](weekly_materials/week0). 
-
 
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
@@ -30,7 +29,15 @@ Listening to a lecture is seldom the best way to learn to create things. As a re
 Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict, please let me know, so I can make sure you have the materials for the exercise.  
 
 ## Grading
-Details on project assignments will be linked from this syllabus as they are assigned. Details on exercises will be linked from the [Schedule.md](Schedule.md) file. 
+Your final grade will be based on your projects (70%), in-class exercises (20%), and your overall participation both in-class and in Slack (10%).
+
+I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("this is the wrong field of study for you"), based on your overall average for the class. Here's the breakdown:
+
+| Class Average | Grade |
+| ------------- | ----- |
+| 83%-100%	| A |
+| 65%-82.9%	| C |
+| 0-65%	| F |
 
 ### Projects (70% of grade)
 
@@ -43,7 +50,7 @@ Details on project assignments will be linked from this syllabus as they are ass
 - **Project 4**: Group Project: TBD (20% of final grade, due finals week)
 
 ### In-Class Exercises (20% of final grade)
-Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, with information on their required submission date and time.
+Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, and linked from the [Schedule.md](Schedule.md) file with information on their required submission date and time.
 
 ### Class Participation (10% of final grade)
 You are expected to attend class regularly, and to participate in the class Slack. Both count towards your participation grade. 

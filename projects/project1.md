@@ -3,7 +3,7 @@
 ## Requirements
 Create a landing page for your 230 directory, which *must* load at the URL `http://people.rit.edu/~yourid/230/` . The page should include your name, a (recognizable) picture of yourself, and placeholders for links to your in-class exercises and class projects. 
 
-Do your best to use the principles of design you learned in IGME-110 or other design classes; I want to see the best you can do. (That does not mean putting in every type of bell and whistle you can imagine; keep it simple and clean!)
+Do your best to use the principles of design you learned in IGME-110 or other design classes; I want to see the best you can do. (That does not mean putting in every type of bell and whistle you can imagine; keep it simple and clean!) This is your opportunity to make a good first impression :) 
 
 Remember to design for your audience--which in this case is me. I'll be using this page throughout the semester for two tasks: associating your face with your name, and reviewing the work you do in this class. Keep in mind that while sometimes I'll be viewing your work on a high-res 15.6" ASUS laptop running Chrome on Win 10, I'll also often be using my 9.7" iPad Pro with mobile Safari, or my 13" MacBook Pro. 
 
