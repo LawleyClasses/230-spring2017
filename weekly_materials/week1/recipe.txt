@@ -1,0 +1,99 @@
+=Recipe=
+
+A recipe is a set of instructions that describes how to prepare or make something, especially a culinary dish. It is also used in medicine or in information technology (user acceptance). A doctor will usually begin a Medical prescription with recipe, Latin for take, usually abbreviated to Rx or an equivalent symbol.
+
+Contents
+
+History
+Early examples
+Modern recipes and cooking advice
+Components
+Internet and television recipes
+Recipe design tools
+See also
+References
+
+==History==
+
+===Early examples===
+File:Apicius 1541.jpg|thumb|right|Apicius, De re culinaria, an early collection of recipes.
+
+The earliest known recipes date from approximately 1600 BC and come from an Akkadian language tablet from southern Babylonia[1]. There are also ancient Egyptian hieroglyphics depicting the preparation of food.[2]
+
+Many ancient Greek recipes are known. Mithaecus's cookbook was an early one, but most of it has been lost; Athenaeus quotes one short recipe in his Deipnosophistae. Athenaeus mentions many other cookbooks, all of them lost.[3]
+
+Roman recipes are known starting in the 2nd century BCE with Cato the Elder's De Agri Cultura. Many other authors of this period described eastern Mediterranean cooking in Greek and in Latin. Some Punic recipes are known in Greek and Latin translation.[3]
+
+The large collection of recipes De re coquinaria, conventionally entitled 'Apicius', appeared in the 4th or 5th century and is the only more or less complete surviving cookbook from the classical world.[3] It lists the courses served in a meal as 'Gustatio' (appetizer), 'Primae Mensae' (main course) and 'Secundae Mensae' (dessert).[4] It begins each recipe with the Latin command "Take...", Recipe....[5]
+
+Arabic recipes are documented starting in the 10th century; see Ibn Sayyar al-Warraq and Muhammad bin Hasan al-Baghdadi.
+
+King Richard II of England commissioned a recipe book called Forme of Cury in 1390[6], and around the same time another book was published entitled Curye on Inglish, "cury" meaning cooking.[7]  Both books give an impression of how food for the noble classes was prepared and served English cuisine|in England at that time. The luxurious taste of the aristocracy in the Early Modern Period brought with it the start of what can be called the modern recipe book. By the 15th century, numerous manuscripts were appearing detailing the recipes of the day. Many of these manuscripts give very good information and record the re-discovery of many herbs and spices including coriander, parsley, basil and rosemary, many of which had been brought back from the Crusades.[8]
+
+===Modern recipes and cooking advice===
+With the advent of the printing press in the 16th and 17th centuries, numerous books were written on how to manage households and prepare food. In Holland[9] and England[10], competition grew between the noble families as to who could prepare the most lavish banquet. By the 1660s, cookery had progressed to an art form and good cooks were in demand. Many of them published their own books detailing their recipes in competition with their rivals.[11] Many of these books have now been translated and are available online.[12]
+
+By the 19th century, the Victorian preoccupation for domestic respectability brought about the emergence of cookery writing in its modern form. Although eclipsed in fame and regard by Isabella Beeton, the first modern cookery writer and compiler of recipes for the home was Eliza Acton. Her pioneering cookbook, Modern Cookery for Private Families published in 1845, was aimed at the domestic reader rather than the professional cook or chef. This was immensely influential, establishing the format for modern writing about cookery. It introduced the now-universal practice of listing the ingredients and suggested cooking times with each recipe. It included the first recipe for Brussels sprouts.[13] Contemporary chef Delia Smith called Acton "the best writer of recipes in the English language.".[14] Modern Cookery long survived Acton, remaining in print until 1914 and available more recently in facsimile.
+
+Acton's work was an important influence on Isabella Beeton[15], who published Mrs Beeton's Book of Household Management in 24 monthly parts between 1857 and 1861. This was a guide to running a Victorian era|Victorian household, with advice on fashion, child care, animal husbandry, poisons, the management of Domestic worker|servants, science, religion, and industrialism.[16][17] Of the 1,112 pages, over 900 contained recipes. Most were illustrated with coloured engravings. It is said that many of the recipes were plagiarised from earlier writers such as Acton, but the Beetons never claimed that the book's contents were original. It was intended as a reliable guide for the aspirant middle classes.
+
+The American cook Fannie Farmer (1857–1915) published in 1896 her famous work The Boston Cooking School Cookbook which contained some 1,849 recipes.[18]
+
+==Components==
+
+Modern culinary recipes normally consist of several components
+* The name (and often the locale or provenance) of the dish
+* How much time it will take to prepare the dish
+* The required ingredients along with their quantities or proportions
+* Necessary equipment and environment needed to prepare the dish
+* An ordered list of preparation steps and techniques
+* The number of servings that the recipe will provide (the "yield")
+* The texture and flavor
+* A photograph of the finished dish
+
+Some recipes will note how long the dish will keep and its suitability for freezing. Nutritional information, such as calories per serving and grams of protein, fat, and carbohydrates per serving, may also be given.
+
+Earlier recipes often included much less information, serving more as a reminder of ingredients and proportions for someone who already knew how to prepare the dish.
+
+Recipe writers sometimes also list variations of a traditional dish, to give different tastes of the same recipes.
+
+==Internet and television recipes==
+By the mid 20th century, there were thousands of cookery and recipe books available. The next revolution came with the introduction of the TV cooks. The first TV cook in England was Fanny Cradock with a show on the BBC. TV cookery programs brought recipes to a new audience. In the early days, recipes were available by post from the BBC; later with the introduction of CEEFAX text on screen, they became available on television.
+
+In the early 21st century, there has been a renewed focus on cooking at home due to the late-2000s recession.[19] Television networks such as the Food Network and magazines are still a major source of recipe information, with international cooks and chefs such as Jamie Oliver, Gordon Ramsay, Nigella Lawson and Rachael Ray having prime-time shows and backing them up with Internet websites giving the details of all their recipes. These were joined by reality TV shows such as Top Chef or Iron Chef, and many Internet sites offering free recipes, but cookery books remain as popular as ever.[20]
+
+==Recipe design tools==
+Molecular gastronomy provides chefs with cooking techniques and ingredients, but this discipline also provides new theories and methods which aid recipe design. These methods are used by chefs, foodies, home cooks and even Bartender|mixologists worldwide to improve or design recipes.
+
+== See also ==
+Portal|Food}}
+* Cookbook
+* Course (food)
+* Culinary art
+* hRecipe - a microformat for marking-up recipes in web pages
+* List of desserts
+* List of foods
+* Rhyming recipe
+* Desi Appetite
+
+==References==
+^Jean Bottéro, Textes culinaires Mésopotamiens, 1995. ISBN 0-931464-92-7; commentary at Society of Biblical Literature
+^Ancient Egyptian cuisine
+^Andrew Dalby, Food in the Ancient World from A to Z, 2003. ISBN 0-415-23259-7 p. 97-98.
+"Roman food in Britain". Retrieved 2007-05-10.
+^Colquhoun, Kate (2008) [2007]. Taste: The Story of Britain through its Cooking. Bloomsbury. p. 25. ISBN 978-0-747-59306-5.
+^COMDA Calendar Co. 2007 Recipe Calendar. COMDA, Canada.
+^Hicatt, Constance B; Sharon Butler (1985). English Culinary Manuscripts of the 14C.
+^Austin, Thomas (1888). Ashmole and other Manuscripts.
+^Sieben, Ria Jansen (1588). Een notable boecxtken van cokeryen.
+^anon (1588). The good Huswifes handmaid for Cookerie.
+^May, Robert (1685). The accomplifht Cook.
+^Judy Gerjuoy. "Medieval Cookbooks". Retrieved 2007-06-15.
+^Pearce, Food For Thought: Extraordinary Little Chronicles of the World, (2004) pg 144 
+^Interview.
+^"Acton, Eliza (1799–1859)". Women in World History: A Biographical Encyclopedia. Gale Research Inc. Retrieved 8 January 2013.(subscription required)
+^General Observations on the Common Hog
+^Food in season in April 1861
+^Cunningham, Marion (1979). The Fannie Farmer Cookbook (revised). Bantam Books, New York. ISBN 0-553-56881-7.
+^Holmes, Elizabeth (2009-05-05). "Web Recipes Are Cooking With Gas". Wall Street Journal.
+Andriani, Lynn. "Cookbooks surge to top category". Retrieved 2013-10-14.
