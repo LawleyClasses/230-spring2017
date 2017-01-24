@@ -30,7 +30,7 @@ Listening to a lecture is seldom the best way to learn to create things. As a re
 Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict, please let me know, so I can make sure you have the materials for the exercise.  
 
 ## Grading
-Details on project assignments will be in the Github directory for that project. Details on exercises will be found in the weekly content folders. 
+Details on project assignments will be linked from this syllabus as they are assigned. Details on exercises will be linked from the [Schedule.md](Schedule.md) file. 
 
 ### Projects (70% of grade)
 
@@ -61,9 +61,10 @@ The schedule of topics, readings, and projects can be found in the [Schedule.md]
 ### Important RIT Deadlines
 - Last day of add/drop is 30 January 2017.
 - Last day to withdraw with a grade of “W” is 21 April 2017.
+- You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments and any emails that I need to send to individual students will be done through MyCourses. This means you should regularly check your email and the Slack for this course. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Announcements (such as class cancellations) will be posted in Slack. This means you should regularly check Slack, and consider setting up notifications for the announcements channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or will include a grade penalty. 
 ### Missed Classes
