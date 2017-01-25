@@ -16,21 +16,24 @@ To download that text file to your computer for editing, right-click on the butt
 
 You're also going to the two images in the week1 folder. Go up one level in the repo to the week1 folder, and click on the first image (2014_0531_Crème_brûlée_Doi_Mae_Salong.jpg). When it loads, there will be a Download button in the top right corner. Right-click that button, choose "Save link as...", and download it to your local week1 folder. Then epeat that process with the second image, 225px-Crema_Catalana_El_Glop.jpg. 
 
-## Marking Up a Text File
+## Setting Up VS Code
 
-Launch Visual Studio Code, and choose "Open Folder..." from the file menu. Find the your week1 folder, and select it. You should now see the three files that you downloaded in the left sidebar. (If you don't, click on the documents icon in the top left corner of the window.)
+While you can use Visual Studio Code to open and edit a single file, it works best if you point it to your working folder. Launch the program, and then choose "Open Folder..." from the File menu. Find the week1 folder you created on your local or USB drive, and and open it. You should see the three files that you downloaded in the last step. 
+
+There are two VS Code extensions that will be particularly useful in today's exercise: Hasher (which replaces special characters with the appropriate HTML entity), and htmltagwrap, which allows you to select a block of text and easily wrap it with an HTML tag. To install the extensions now, choose View->Extensions, or click on the square icon at the bottom of the far left sidebar. In the search bar at the top, type in the name of the extension you want to add. When it appears, click the green "Install" button to add it. 
+
+(If you don't like the light-on-dark colors that VS Code uses by default, you can select a different theme via File->Preferences->Color Theme.)
+
+## Marking Up a Text File
 
 Click on the cremebrulee.txt file, and it should display in the editor. It currently has no HTML markup at all--you're going to turn it into a proper HTML document, and add some simple CSS rules to make it look a bit more like the original Wikipedia entry. 
 
-Start by creating a new file (File->New File, or Ctrl-N). Save the file (File->Save or Ctrl-S), name it cremebrulee.html, and make sure it's in your week1 folder. 
+Use File->Save As... to save a new copy of the file called cremebrulee.html. Make sure you save it to the week1 folder. Giving it an .html extension will tell VS Code to enable its HTML support. 
 
-Add the basic structure for an HTML document. You can do this by hand, or you can use the Emmet abbreviation I showed at the end of Tuesday's class; type an !, then hit tab. 
 
-Now copy all of the content from the .txt document, and paste it into the body of the .html document. (You can close the .txt file now if you want; we're done with it.) 
+There are a lot of accented and foreign characters in this document, which browsers won't interpret properly. You need to turn those into HTML entities. Happily, there's an easy way to do this. If you don't already have the Hasher extension installed, go to the extensions pane (bottom icon in the far left sidebar, or choose View->Extensions) and install it (type Hasher in the search box, and then click the install button when it appears). Once it's installed, you can highlight a word or phrase that has special characters (e.g. Crème brûlée), press the F1 key to open the command palette, and type "Hasher HTML". You'll see two options appear-- Hasher: HTML Entity Decode, and Hasher: HTML Entity Encode. Select the Encode option, and it will replace the accented characters with the appropriate HTML entity codes. You can do this individually for each word or phrase, or you can select the entire document and run the command. (Once you have HTML tags in your document, you won't want to run this on the entire document--it will replace the brackets on each tag with HTML entities!)
 
-There are a lot of accented and foreign characters in this document, which browsers won't interpret properly. You need to turn those into HTML entities. Happily, there's an easy way to do this. If you don't already have the Hasher extension installed, go to the extensions pane (bottom icon in the far left sidebar, or choose View->Extensions) and install it (type Hasher in the search box, and then click the install button when it appears). Once it's installed, you can highlight a word or phrase that has special characters (e.g. ), press the F1 key, and type "Hasher HTML". You'll see two options appear-- Hasher: HTML Entity Decode, and Hasher: HTML Entity Encode. Select the Encode option, and it will replace the accented characters with the appropriate HTML entity codes. Repeat this for all the words/phrases in the document using special characters. (You can actually select all the text you copied over and run the command on that--but make sure you don't include any html tags, or it will turn the tag brackets into entities!)
-
-Now go through the file and mark it up with HTML. 
+Now we need to mark the text up as HTML. 
 
 - Add an h1 heading for the page title, and h2 headings for all of the subsections.
 - Add paragraph tags to the individual paragraphs of text. 
@@ -41,7 +44,9 @@ Now go through the file and mark it up with HTML.
 
 Don't worry about adding links yet; we'll be doing that next week. 
 
-When you're done, use Ctrl-O to open your html file in Chrome (or another browser). It should look a lot like this: [cremebrulee1.png](cremebrulee1.png)
+Pay attention to the status bar at the bottom of the editor window. If you see a number next to the triangle with an exclamation point, it means VS Code has detected a problem with your code. If that happens, you can click on that part of the status bar to open the "Problems" pane and see what the problem is. 
+
+When you're done, open Chrome (or your browser of choice) and use Ctrl-O to locate and preview your file. It should look a lot like this: [cremebrulee1.png](cremebrulee1.png)
 
 ## Uploading
  
@@ -74,6 +79,9 @@ basis. The period at the beginning of the file name is intentional; it indicates
 4) Make sure you set the permissions on this file to 644 (Read and Write for you, Read only for group and other).
 
 To see if this worked, reload your cremebrulee.html page, and try viewing the source again. 
+
+## Validating Your Page
+If VS Code didn't report any errors while you were editing the file, your HTML is probably valid. But it's a good idea to run your page through the W3C validator (something I'll do for every assignment) just to be sure. Go to http://validator.w3c.org/, and paste the URL for your page into the box. If it shows any errors (don't worry about warnings for now), make sure you correct those before proceeding.
 
 ## Adding Basic CSS Formatting
 Now we're going to use CSS to start to make this look a bit more like the original Wikipedia entry.
