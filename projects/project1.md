@@ -1,7 +1,7 @@
 # Project 1: Basic Personal Page
 
 ## Requirements
-Create a landing page for your 230 directory, which *must* load at the URL `http://people.rit.edu/~yourid/230/` . The page should include your name, a (recognizable) picture of yourself, and placeholders for links to your in-class exercises and class projects. 
+Create a landing page for your igme230 directory, which *must* load at the URL `http://people.rit.edu/~yourid/igme230/` . The page should include your name, a (recognizable) picture of yourself, and placeholders for links to your in-class exercises and class projects. 
 
 Do your best to use the principles of design you learned in IGME-110 or other design classes; I want to see the best you can do. (That does not mean putting in every type of bell and whistle you can imagine; keep it simple and clean!) This is your opportunity to make a good first impression :) 
 
