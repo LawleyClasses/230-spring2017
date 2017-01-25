@@ -62,23 +62,22 @@ Once your page has displayed properly, type Ctrl-U to display the page source. Y
 
 banjo.rit.edu implements several techniques to help pages load faster and more consistently, but these technique have the side effect of making pages on the server very hard for us to debug and to validate.
 
-The solution? We need to add an .htaccess files to your www directory.
-
-.htaccess files allow you to make web server configuration changes on a per-folder
+The solution? We need to add an .htaccess files to your www directory. .htaccess files allow you to make web server configuration changes on a per-folder
 basis. The period at the beginning of the file name is intentional; it indicates a hidden file in UNIX. However, that same period can make the file difficult to work with on a Windows or Mac computer, so we're going to start with a file that does not include the period at the beginning of the name. We will be working with .htaccess files in more depth later in the semester, but for now we just want to get this file uploaded so that the server behaves properly for you.
 
-(Note: If you already have an .htaccess file in your banjo www directory, rather than creating a new file as described below, simply add a line with the directive (ModPagespeed off) to the end of the existing file.)
+(Note: If you already have an .htaccess file in your banjo www directory, rather than creating a new file as described below, you can simply add a line with the directive `ModPagespeed off` to the end of the existing file.)
+
 
 1) In the www directory that you created on your local computer or USB drive, create a new file called htaccess, without the period at the beginning of the file name. In that file, put a single line of text:
    ModPagespeed off
 
-2) Using an SFTP client to upload the htaccess file to the www folder in your banjo.rit.edu account.
+2) Use an SFTP client to upload the htaccess file to the www folder in your banjo.rit.edu account.
 
 3) Once you've uploaded the file, on Banjo, change its filename from htaccess to .htaccess (just add a . to the front of the name). 
 
 4) Make sure you set the permissions on this file to 644 (Read and Write for you, Read only for group and other).
 
-To see if this worked, reload your cremebrulee.html page, and try viewing the source again. 
+To see if this worked, reload your cremebrulee.html page on people.rit.edu, and view the source again. 
 
 ## Validating Your Page
 If VS Code didn't report any errors while you were editing the file, your HTML is probably valid. But it's a good idea to run your page through the W3C validator (something I'll do for every assignment) just to be sure. Go to http://validator.w3c.org/, and paste the URL for your page into the box. If it shows any errors (don't worry about warnings for now), make sure you correct those before proceeding.
@@ -118,7 +117,7 @@ h1 {
     font-size: xx-large;
 }
 ```
-Save your HTML and CSS files, and upload them to your week1 directory. Your cremebrulee.html file should now look more like this: [cremebrulee2.png](cremebrulee2.png)
+Save the changes your HTML and CSS files, and upload them to your week1 directory. Your cremebrulee.html file should now look more like this: [cremebrulee2.png](cremebrulee2.png)
 
 You're done!
 
