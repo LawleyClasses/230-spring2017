@@ -8,7 +8,7 @@ We will also be adding a configuration file to your RIT web space to override so
 
 ## Setting Up Your Folders and Files
 
-On your computer (or on a USB drive) create a folder called banjo. Inside of the banjo folder, put a folder called www. Inside of the www folder, put a folder called 230. And inside of the 230 folder, put folder called week1. The www folder represents your www directory on banjo.rit.edu. The 230 folder is where all of your exercises and projects for this class will be stored. And the week1 folder is for today's exercise. 
+On your computer (or on a USB drive) create a folder called banjo. Inside of the banjo folder, put a folder called www . Inside of the www folder, put a folder called 230. And inside of the 230 folder, put folder called week1. The www folder represents your www directory on banjo.rit.edu. The 230 folder is where all of your exercises and projects for this class will be stored. And the week1 folder is for today's exercise. 
 
 I've put a file called [cremebrulee.txt](./weekly_materials/week1/cremebrulee.txt) in the week1 folder on Github. When you view that file on Github, you'll see that it's a plain text file with the content from the [Wikipedia entry for "Crème brûlée"](https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e). 
 
