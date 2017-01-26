@@ -53,11 +53,13 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
   
 - **Thursday Exercise**
  - We will additional CSS to the file we've been working on, including both complex selectors and positioning of elements. 
+ 
+
+[Project 1](projects/project1) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
 ## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
 When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. This week we'll look at and critique a number of websites, and apply basic design concepts to redesign of existing pages. We'll also address accessibility issues on the web, including WAI-ARIA, the Web Accessibility Initiative's Accessible Rich Internet Applications Suite.
 
-[Project 1](projects/project1) (a personal page) is due at the end of this week. 
 
 ## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
 Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
