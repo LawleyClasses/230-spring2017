@@ -49,6 +49,8 @@ Pay attention to the status bar at the bottom of the editor window. If you see a
 When you're done, open Chrome (or your browser of choice) and use Ctrl-O to locate and preview your file. It should look a lot like this: [cremebrulee1.png](cremebrulee1.png)
 
 ## Uploading
+
+*Note for New Media Design students: If you haven't ever uploaded files to banjo.rit.edu, which is the file server for the people.rit.edu web server, you should review the [prerequisite knowledge](https://github.com/LawleyClasses/230-spring2017/blob/master/weekly_materials/week0/Prereq.md) section linked from the syllabus (and emailed before the semester began), and in particular the [exercise from IGME-110](https://github.com/LawleyClasses/230-spring2017/blob/master/weekly_materials/week0/110-Fall-2016-Week6-Web-Publishing-Exercise.pdf) that reviews the process of using an SFTP client to upload files to your web directory. If you think you'll need a bit more time to get this exercise done, please contact me directly via private message on Slack or email to my Elizabeth.Lawley at rit dot edu address, and I'll grant you an extension until Sunday.*
  
 Once you're satisfied with the html file, you're going to upload the files you've been working on to your RIT web space. 
 
@@ -78,9 +80,6 @@ basis. The period at the beginning of the file name is intentional; it indicates
 4) Make sure you set the permissions on this file to 644 (Read and Write for you, Read only for group and other).
 
 To see if this worked, reload your cremebrulee.html page on people.rit.edu, and view the source again. 
-
-## Validating Your Page
-If VS Code didn't report any errors while you were editing the file, your HTML is probably valid. But it's a good idea to run your page through the W3C validator (something I'll do for every assignment) just to be sure. Go to http://validator.w3c.org/, and paste the URL for your page into the box. If it shows any errors (don't worry about warnings for now), make sure you correct those before proceeding.
 
 ## Adding Basic CSS Formatting
 Now we're going to use CSS to start to make this look a bit more like the original Wikipedia entry.
