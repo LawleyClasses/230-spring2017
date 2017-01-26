@@ -91,6 +91,8 @@ In the head of your document, add a link to an external stylesheet called cremeb
 <link rel="stylesheet" type="text/css" href="cremebrulee.css" />
 ```
 
+(You can use Emmet to automate this; just type `link:css` and press tab.)
+
 Use File->New or Ctrl-N to create a new file, and save it to the week1 folder with the name cremebrulee.css.
 
 For today, since we've already done quite a bit, I'm going to give you the CSS to start with. Paste the following style rules into your cremebrulee.css file:
