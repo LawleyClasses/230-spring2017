@@ -62,6 +62,14 @@ When we talk about "web design," we're actually talking about a much wider range
 ## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
 Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
 
+- **Tuesday Readings**
+ - [Breaking Into Game Design, Part 2: Build Your Portfolio](http://www.gamasutra.com/blogs/EthanLevy/20130621/194830/Breaking_into_game_design_Part_2__build_your_portfolio.php)
+ - [Graphic Design Portfolios: The New Online Resume](http://www.howdesign.com/design-career/resume-portfolio/graphic-design-portfolios-new-online-resume-design/)
+ 
+
+- **Thursday Readings**
+ - [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/What-you-should-know-before-watching-course/378045/409354-4.html?org=rit.edu)
+
 ## <a name="week5"></a>Week 5 (Feb 21/23): CSS In-Depth
 Curent versions of CSS allow us to do far more than simply changing the basic appearance and positioning of items on a page. This week we'll be looking at more advanced CSS techniques, including CSS animations, transitions, and media types. 
 
