@@ -4,10 +4,10 @@
 - [Week 1 (Jan 24/26): Overview: Syllabus, Expectations, Tools](#week1)
 - [Week 2 (Jan 31/Feb 2): HTML & CSS, beyond the basics](#week2)
 - [Week 3 (Feb 7/9): Web Design & Accessibility](#week3)
-- [Week 4 (Feb 14/16): Information Architecture](#week4)
+- [Week 4 (Feb 14/16): Online Portfolios & Web Workflow](#week4)
 - [Week 5 (Feb 21/23): CSS In-Depth](#week5)
-- [Week 6 (Feb 28/Mar 2): Online Portfolios & Web Workflow](#week6)
-- [Week 7 (Mar 7/9): Responsive Design & CSS Frameworks](#week7)
+- [Week 6 (Feb 28/Mar 2): Responsive Design & CSS Frameworks](#week6)
+- [Week 7 (Mar 7/9): Information Architecture](#week7)
 - [Week 8 (Mar 21/23): Javascript Intro: Syntax, DOM, and Debuggers](#week8)
 - [Week 9 (Mar 28/30): Javacript Cont'd: Events/Listeners, CSS](#week9)
 - [Week 10 (Apr 4/6): JQuery](#week10)
@@ -42,17 +42,25 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
 
 - **Tuesday Readings**
  - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
+
+- **Tuesday Exercise**
+ - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. 
  
 - **Thursday Readings**
  - [Lynda.com CSS Positioning Best Practices, Lessons 1-2](https://www.lynda.com/CSS-tutorials/positioning-best-practices/47543-2.html?org=rit.edu)
   - [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp)
   - [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
   
+- **Thursday Exercise**
+ - We will additional CSS to the file we've been working on, including both complex selectors and positioning of elements. 
+  
 ## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
-When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. (Your first project is due at the end of this week.)
+When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. This week we'll look at and critique a number of websites, and apply basic design concepts to redesign of existing pages. We'll also address accessibility issues on the web, including WAI-ARIA, the Web Accessibility Initiative's Accessible Rich Internet Applications Suite.
 
-## <a name="week4"></a>Week 4 (Feb 14/16): Information Architecture
-Creating a good website means making sure that you've effectively organized and structured your content, a process known as information architecture. We'll talk about IA this week, and discuss issues related to organizing content on the web. 
+[Project 1](projects/project1) (a personal page) is due at the end of this week. 
+
+## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
+Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
 
 ## <a name="week5"></a>Week 5 (Feb 21/23): CSS In-Depth
 Curent versions of CSS allow us to do far more than simply changing the basic appearance and positioning of items on a page. This week we'll be looking at more advanced CSS techniques, including CSS animations, transitions, and media types. 
@@ -64,15 +72,22 @@ Curent versions of CSS allow us to do far more than simply changing the basic ap
  - [Lynda.com CSS Fundamentals, Media Types & Queries](https://www.lynda.com/CSS-tutorials/Media-types-media-queries/417645/484795-4.html?org=rit.edu)
  - [Lynda.com CSS Fundamentals, CSS Resets](https://www.lynda.com/CSS-tutorials/Media-types-media-queries/417645/484795-4.html?org=rit.edu)
 
-## <a name="week6"></a>Week 6 (Feb 28/Mar 2): Online Portfolios & Web Workflow 
-Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files. 
+## <a name="week6"></a>Week 6 (Feb 28/Mar 2): Responsive Design & CSS Frameworks
+Responsive design involves creating websites that adapt well to a variety of devices and screen sizes, from large computer monitors to small smartphones. Many responsive websites are built using a pre-existing framework of CSS and Javscript that enable the developer to focus on content and design rather than the underlying code necessary for effective responsive functionality. We'll be looking at one of the most widely used frameworks, Bootstrap, this week. Because I will be in San Francisco for GDC this week, I will provide you with tutorials and exercises to do on your own this week. 
 
-## <a name="week7"></a>Week 7 (Mar 7/9): Responsive Design & CSS Frameworks
-Responsive design involves creating websites that adapt well to a variety of devices and screen sizes, from large computer monitors to small smartphones. Many responsive websites are built using a pre-existing framework of CSS and Javscript that enable the developer to focus on content and design rather than the underlying code necessary for effective responsive functionality. We'll be looking at one of the most widely used frameworks, Bootstrap, this week. 
+- **Tuesday Readings**
+ - [Lynda.com: Responsive Design Fundamentals](https://www.lynda.com/Web-Responsive-Design-tutorials/Responsive-Design-Fundamentals/104969-2.html?org=rit.edu) - This is not a hands-on tutorial--instead, it is an overview of what responsive design is, why it's important, and how it's typically implemented. 
+ 
+- **Thursday Readings**
+ - [Lynda.com: Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu) -- Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. 
+ - [Lynda.com: Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu) - This shorter tutorial looks at the differences between Bootstrap 3 and 4. 
+
+## <a name="week7"></a>Week 7 (Mar 7/9): Information Architecture
+Creating a good website means making sure that you've effectively organized and structured your content, a process known as information architecture. We'll talk about IA this week, and discuss issues related to organizing content on the web.
 
 
 ## SPRING BREAK
-Your second project is due at the end of spring break. 
+Project 2 (a personal portfolio site using Bootstrap) is due at the end of spring break. 
 
 ## <a name="week8"></a>Week 8 (Mar 21/23): Javascript Intro: Syntax, DOM, and Debuggers
 We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both VS Code and Chrome's developer tools. 
