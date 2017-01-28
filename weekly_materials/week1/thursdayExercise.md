@@ -123,4 +123,4 @@ Save the changes your HTML and CSS files, and upload them to your week1 director
 You're done!
 
 ## Due Date
-You must have this exercise complete by 11:59pm on Friday, January 27th. On Saturday, my grader will go to `http://people.rit.edu/~youruserid/230/week1`, check to make sure all the files are there, and load the html file to make sure it bears some resemblance to what I asked for. 
+You must have this exercise complete by 11:59pm on Friday, January 27th. On Saturday, my grader will go to `http://people.rit.edu/youruserid/230/week1`, check to make sure all the files are there, and load the html file to make sure it bears some resemblance to what I asked for. 
