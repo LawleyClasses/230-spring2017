@@ -47,7 +47,7 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
  - We will revisit the file we worked on last week, adding semantic markup, internal and external links, and additional CSS. 
  
 - **Thursday Readings**
- - [Lynda.com: CSS Fundamentals](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=rit.edu) (this replaces the CSS Positioning tutorial I had originally assigned; if you have already completed that course, you don't need to do this one)
+ - [Lynda.com: CSS Fundamentals, Sections 1-3](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=rit.edu) (this replaces the CSS Positioning tutorial I had originally assigned; if you have already completed that course, you don't need to do this one)
  - Not required, but useful references: [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp) and [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
   
 - **Thursday Exercise**
