@@ -44,16 +44,14 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
  - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
 
 - **Tuesday Exercise**
- - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. 
+ - We will revisit the file we worked on last week, adding semantic markup, internal and external links, and additional CSS. 
  
 - **Thursday Readings**
- - [Lynda.com CSS Positioning Best Practices, Lessons 1-2](https://www.lynda.com/CSS-tutorials/positioning-best-practices/47543-2.html?org=rit.edu)
-  - [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp)
-  - [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+ - [Lynda.com: CSS Fundamentals](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=rit.edu) (this replaces the CSS Positioning tutorial I had originally assigned; if you have already completed that course, you don't need to do this one)
+ - Not required, but useful references: [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp) and [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
   
 - **Thursday Exercise**
- - We will additional CSS to the file we've been working on, including both complex selectors and positioning of elements. 
- 
+ - We will use CSS positioning to modify the layout of an HTML file 
 
 [Project 1](projects/project1) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
