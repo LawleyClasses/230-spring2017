@@ -34,13 +34,8 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
  - [HTML Programming in VS Code](https://code.visualstudio.com/docs/languages/html)
  - [Save Time and Keystrokes with Emmet in Visual Studio Code](https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/)
 
-<<<<<<< HEAD
-- **Thursday Exercise**
- - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. Detailed instructions are in the [week1/thursdayExercise](./weekly_materials/week1/thursdayExercise.md) file.
-=======
 - **[Thursday Exercise](./weekly_materials/week1/thursdayExercise.md)**
- - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages.
->>>>>>> 63ff997ea638ecfacb530f04be81f3e5d9eaf54f
+ - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. 
 
 ## <a name="week2"></a>Week 2 (Jan 31/Feb 2): HTML & CSS, beyond the basics
 A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
@@ -48,12 +43,8 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
 - **Tuesday Readings**
  - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
 
-- **Tuesday Exercise**
-<<<<<<< HEAD
- - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. Detailed instructions are in the [week2/tuesdayExercise](./weekly_materials/week2/tuesdayExercise.md) file.
-=======
- - We will revisit the file we worked on last week, adding semantic markup, internal and external links, and additional CSS. 
->>>>>>> 63ff997ea638ecfacb530f04be81f3e5d9eaf54f
+- **[Tuesday Exercise](./weekly_materials/week2/tuesdayExercise.md)**
+ - We will revisit the file we worked on last week, adding semantic markup, and internal and external links.
  
 - **Thursday Readings**
  - [Lynda.com: CSS Fundamentals, Sections 1-3](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=rit.edu) (this replaces the CSS Positioning tutorial I had originally assigned; if you have already completed that course, you don't need to do this one)
