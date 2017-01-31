@@ -48,6 +48,15 @@ Then, for each of the h2 headings that follow, surround the heading and the cont
 
 [If you want to play around with Emmet, you can tell it to wrap content in a tag with a specific ID by selecting the content, pressing F1, typing `emmet wrap`, seleting "Emmet Wrap with Abbreviation", and then typing in `section#id_name`, where id_name is the id you want to use for that section.]
 
+We're also going to add some semantic tags to the image in the Crema Catalana section. We want to display it with a caption, something we can do by using the `<figure>` and `<figcaption>` tags. We also need to give the image a unique ID, so that we can use CSS to format it individually. 
+
+```
+<figure id="crema_catalana_image">
+    <img src="225px-Crema_Catalana_El_Glop.jpg" alt="Crema catalana served in El Glop, Barcelona, Spain" />
+    <figcaption>Crema catalana served in El Glop, Barcelona, Spain</figcaption>
+</figure>
+```
+
 IDs are typically used for assigning CSS properties, but they have other uses, as well. Because they are a unique identifier on the page, they can be used for internal links, as well as manipulated with Javascript. We won't be dealing with scripting today, but we are going to add internal links to the page. 
 
 ## Creating Contents Links
@@ -177,7 +186,7 @@ That looks pretty good. Let's move on.
 ## Formatting the Contents
 We're going to use some similar techniques to format the contents.
 
-Just as we did with the infobox, we also want to add a border and a background color. We also want to set a width, but we want the width to be determined by the items inside the box. To do that, we're going to use a CSS that changes the way the browser deals with the element as a whole: `display: inline-block` . This will allow the nav container to shrink to fit its contents. 
+Just as we did with the infobox, we also want to add a border and a background color. We also want to set a width, but we want the width to be determined by the items inside the box. To do that, we're going to use a CSS that changes the way the browser deals with the element as a whole: [display: inline-block](http://www.w3schools.com/css/css_inline-block.asp). This property will allow the nav container to shrink to fit its contents. 
 
 ```
 nav {
@@ -214,6 +223,50 @@ By putting a space, and not a comma, between nav and h2, we tell the browser to 
 
 It's not quite perfect--we really ought to fix the alignment of the list with the heading--but I'll leave that as an optional exercise for you :) 
 
+## Formatting the Crema Catalana Image
+We still need to properly format and float the small image in the Crema Catalana section. 
+
+To get something similar to what's on the Wikipedia page, we need to float the figure element containing the image to the left of the text in that section. We also need to give it a border, a background color, some padding between the border and the contents of the box, and some space between the box and the text to its right. Here's the code to do that:
+
+```
+#crema_catalana_image {
+    float: left;
+    width: 122px; 
+    border: 1px solid black; 
+    margin-right: 15px;
+    margin-left: 0px;
+    padding: 3px;
+    background-color: #EEEEEE;
+}
+```
+
+Take a look at the page now. It's not quite where we want it. We still need to format the caption properly, and also deal with the fact that the content after it is wrapping in a way that's not correct. 
+
+To fix the caption, we'll use another descendant selector:
+
+```
+#crema_catalana_image figcaption {
+    font-size: x-small;
+}
+``` 
+
+To fix the wrapping problem, we need to add add a "clear" property to end the float behavior. In our original h1 and h2 declaration, from last week's exercise, we're going to add a rule for clearing the content past any floated elements. Put it at the end of the existing style declaration:
+
+```
+h1, h2 {
+    font-family: 'Linux Libertine',Georgia,Times,serif;
+    line-height: 1.3;
+    margin-bottom: 0.25em;
+    padding: 0;
+    border-bottom: 1px solid #a2a9b1;
+    font-weight: normal;
+    clear: both; 
+    }
+```
+Now the heading following the figure box will drop down to below the floated element. 
+
+(Note that because h1 and h2 are separated with a comma rather than a space in this declaration, the style rules will apply to all instances of both tags.)
+
 ## Adding Icons to External Links
 One interesting thing that Wikipedia does is add a small icon at the end of every link that goes *outside* of the Wikipedia domain. This is something we can accomplish using some more advanced CSS properties. 
 
@@ -232,11 +285,15 @@ a[href^="http"]:after {
 } 
 ```
 
-This is a lot more complex than any of the other rules we've used thus far. It starts with what's called an [attribute selector](http://www.w3schools.com/css/css_attribute_selectors.asp), telling the browser that this rule only applies to a tags that have an href attribute that begins with http. 
+This is a lot more complex than any of the other rules we've used thus far. Let's break it down.
 
-It then uses the [:after](http://www.w3schools.com/cssref/sel_after.asp) selector to append content after the element. We specify the content using a url property, and then we add margin values to place the icon exactly where we want it to be. Because this is done with the CSS, we don't need to modify the HTML for every link if we decide later we don't want the icon. 
+It starts with what's called an [attribute selector](http://www.w3schools.com/css/css_attribute_selectors.asp), telling the browser that this rule only applies to `<a>` tags that have an href attribute beginning with http. 
 
-If you save and refresh the page in a browser, you should now see that icon after the Wikipedia link and the references links. You won't see it in the contents, or the footnotes, because those don't have http in their href values. 
+It then uses the [:after](http://www.w3schools.com/cssref/sel_after.asp) selector to append content after the `<a>` element. We're specifying the content source using a url value, since it's an image, but we could also append a text string if we preferred. 
+
+Then we add margin values to keep everything properly aligned. Because this is all done with  CSS, we don't need to modify the HTML for every link if we decide later we don't want the icon, or want to use a different image entirely. 
+
+If you save and refresh the page in a browser, you should see the icon appear after the Wikipedia link and the references links. You won't see it in the contents, or the footnotes, because those don't have http in their href values. 
 
 Now we want to remove the icon from the Wikipedia link. We'll use similar code to accomplish that. 
 
@@ -247,7 +304,7 @@ a[href*="wikipedia.org"]:after {
 } 
 ```
 
-This works exactly like the rule above, but it selects a elements that have wikipedia.org in their href value. It then removes the after: content and resets the margins. If you refresh your page, you should now see the icon in the references links, but not in the wikipedia link at the top. 
+This works exactly like the rule above, but it only selects `<a>` elements that have wikipedia.org in their href value. It then removes the `after:` content and resets the margins. If you refresh your page, you should now see the icon in the references links, but not in the wikipedia link at the top. 
 
 ## Uploading and Due Date
 When you're done, you should use an SFTP program to upload your week2 folder to your igme230 folder on banjo.rit.edu. The completed html file should display properly at `http://people.rit.edu/yourRITid/igme230/week2/cremebrulee.html`
