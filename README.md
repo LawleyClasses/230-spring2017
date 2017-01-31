@@ -61,7 +61,6 @@ There will be a final practical exam in the class, which will require you to dem
 ## Course Topics & Schedule
 The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
-
  
 ## Additional Policies
 
@@ -71,11 +70,11 @@ The schedule of topics, readings, and projects can be found in the [Schedule.md]
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or will include a grade penalty. 
 ### Missed Classes
-If you miss a class, it is your responsibility to check with classmates for notes. I will not recap classes for you. Because your lowest quiz grades are automatically dropped, I will not give make-up quizzes if you miss one. 
+If you miss a class, it is your responsibility to check with classmates for notes. I will not recap classes for you. 
 ### Office Hours
 I will have a minimum of four office hours per week. This is an excellent time to come in with questions on the course material, homework, or in class work. I am always happy to help you understand the course material or assignments—or just to chat about whatever topic you’d like. Take advantage of this time, since few students bother to talk with their professors outside of class. If for some reason I’m called away during office hours, there will be a note on the door. 
 ### Mobile Phones 

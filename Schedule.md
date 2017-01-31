@@ -25,8 +25,8 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
  - [Course Syllabus](README.md)
  - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
-- **Tuesday Exercise**
- - In this exercise, you'll sign up for the (free) Github Student Developer Pack,  set up an account on the class Slack, and configure Visual Studio Code for use in class. Instructions are in the [tuesdayExercise](weekly_materials/week1/tuesdayExercise.md) file in the [week1 folder](weekly_materials/week1/).
+- **[Tuesday Exercise](weekly_materials/week1/tuesdayExercise.md)**
+ - In this exercise, you'll sign up for the (free) Github Student Developer Pack,  set up an account on the class Slack, and configure Visual Studio Code for use in class. 
 
 - **Thursday Readings**
  - [Why Validate?](https://validator.w3.org/docs/why.html) from w3.org 
@@ -34,8 +34,13 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
  - [HTML Programming in VS Code](https://code.visualstudio.com/docs/languages/html)
  - [Save Time and Keystrokes with Emmet in Visual Studio Code](https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/)
 
+<<<<<<< HEAD
 - **Thursday Exercise**
  - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. Detailed instructions are in the [week1/thursdayExercise](./weekly_materials/week1/thursdayExercise.md) file.
+=======
+- **[Thursday Exercise](./weekly_materials/week1/thursdayExercise.md)**
+ - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages.
+>>>>>>> 63ff997ea638ecfacb530f04be81f3e5d9eaf54f
 
 ## <a name="week2"></a>Week 2 (Jan 31/Feb 2): HTML & CSS, beyond the basics
 A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
@@ -44,20 +49,24 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
  - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
 
 - **Tuesday Exercise**
+<<<<<<< HEAD
  - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. Detailed instructions are in the [week2/tuesdayExercise](./weekly_materials/week2/tuesdayExercise.md) file.
+=======
+ - We will revisit the file we worked on last week, adding semantic markup, internal and external links, and additional CSS. 
+>>>>>>> 63ff997ea638ecfacb530f04be81f3e5d9eaf54f
  
 - **Thursday Readings**
- - [Lynda.com CSS Positioning Best Practices, Lessons 1-2](https://www.lynda.com/CSS-tutorials/positioning-best-practices/47543-2.html?org=rit.edu)
-  - [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp)
-  - [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+ - [Lynda.com: CSS Fundamentals, Sections 1-3](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=rit.edu) (this replaces the CSS Positioning tutorial I had originally assigned; if you have already completed that course, you don't need to do this one)
+ - Not required, but useful references: [CSS Selector Reference](http://www.w3schools.com/cssref/css_selectors.asp) and [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
   
 - **Thursday Exercise**
- - We will additional CSS to the file we've been working on, including both complex selectors and positioning of elements. 
+ - We will use CSS positioning to modify the layout of an HTML file 
+
+[Project 1](projects/project1) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
 ## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
 When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. This week we'll look at and critique a number of websites, and apply basic design concepts to redesign of existing pages. We'll also address accessibility issues on the web, including WAI-ARIA, the Web Accessibility Initiative's Accessible Rich Internet Applications Suite.
 
-[Project 1](projects/project1) (a personal page) is due at the end of this week. 
 
 ## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
 Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
