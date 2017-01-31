@@ -35,7 +35,7 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
  - [Save Time and Keystrokes with Emmet in Visual Studio Code](https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/)
 
 - **Thursday Exercise**
- - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. Detailed instructions are in the [thursdayExercise](./weekly_materials/week1/thursdayExercise.md) file.
+ - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. Detailed instructions are in the [week1/thursdayExercise](./weekly_materials/week1/thursdayExercise.md) file.
 
 ## <a name="week2"></a>Week 2 (Jan 31/Feb 2): HTML & CSS, beyond the basics
 A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
@@ -44,7 +44,7 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
  - Review the content in [Lynda.com HTML Essential Training, Lessons 1-6](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Some of it will be familiar (like basic HTML formatting). Other parts will be new (like structuring content with semantic tags, linking to regions inside a page, and creating complex lists). 
 
 - **Tuesday Exercise**
- - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. 
+ - We will revisit the file we worked on last week, adding semantic markup, and internal and external links. Detailed instructions are in the [week2/tuesdayExercise](./weekly_materials/week2/tuesdayExercise.md) file.
  
 - **Thursday Readings**
  - [Lynda.com CSS Positioning Best Practices, Lessons 1-2](https://www.lynda.com/CSS-tutorials/positioning-best-practices/47543-2.html?org=rit.edu)
