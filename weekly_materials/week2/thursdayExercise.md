@@ -1,7 +1,7 @@
 # Week 2 Thursday In-Class Exercise (2 Feb 2017)
 
 ## Overview & Goals
-Today you're going to put into practice some of the positioning information presented in the CSS Fundamentals tutorial that was assigned for today. I'm giving you an HTML file called [layout.html] with the basic structure for the page you need to create, and [this example](layout.png) of my final version. You must replicate the layout provided, but you are free to change colors, fonts, and borders.  
+Today you're going to put into practice some of the positioning information presented in the CSS Fundamentals tutorial that was assigned for today. I'm giving you an HTML file called [layout.html](layout.html) with the basic structure for the page you need to create, and [this example](layout.png) of my final version. You must replicate the layout provided, but you are free to change colors, fonts, and borders.  
 
 ## Setting Up Files and Folders
 You don't need a new folder for today's exercise; it's going to go into the week2 folder that you created on Tuesday. 
