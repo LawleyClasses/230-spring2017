@@ -1,7 +1,7 @@
 # Project 1: Basic Personal Page
 
 ## Requirements
-Create a landing page for your igme230 directory, which *must* load at the URL `http://people.rit.edu/~yourid/igme230/` . The page should include your name, a (recognizable) picture of yourself, and placeholders for links to your in-class exercises and class projects. 
+Create a landing page for your igme230 directory, which *must* load as the default page at the URL `http://people.rit.edu/~yourid/igme230/` . (Remember, to load as the default page in a directory, an HTML file must be named index.html) The page should include your name, a (recognizable) picture of yourself, and placeholders for links to your in-class exercises and class projects. 
 
 Do your best to use the principles of design you learned in IGME-110 or other design classes; I want to see the best you can do. (That does not mean putting in every type of bell and whistle you can imagine; keep it simple and clean!) This is your opportunity to make a good first impression :) 
 
@@ -11,16 +11,16 @@ The page should use standards-compliant HTML and CSS for both formatting and pos
 
 All of your CSS should be commented, with an explanation as to what the style is accomplishing. Here's an example:
 
-```css
+```
+/* This puts my photo on the right side of the page, adds a thin black border to the image, 
+   and leaves 15px of space between the text and the image. */
+
 #portrait {
    float: right;
    padding: 0px;
    border: 1px solid black;
    margin-left: 15px;
    }
-
-/* This puts my photo on the right side of the page, adds a thin black border to the image, 
-   and leaves 15px of space between the text and the image. */
 ```
 
 ## Due Date
@@ -37,7 +37,7 @@ Valid HTML & CSS | 2 |
 CSS used for formatting | 1 |
 CSS used for layout | 1 |
 CSS annotated | 1 |
-Demonstrates basic design competency | 2 |
+Uses principles of design | 2 |
 Uses appropriate typography | 1 |
 
 ## Privacy Issues
