@@ -53,7 +53,7 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
 - **[Thursday Exercise](./weekly_materials/week2/thursdayExercise.md)**
   - We will use CSS positioning to modify the layout of an HTML file 
 
-[Project 1](projects/project1) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
+[Project 1](projects/project1.md) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
 ## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
 When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. This week we'll look at and critique a number of websites, and apply basic design concepts to redesign of existing pages. We'll also address accessibility issues on the web.
