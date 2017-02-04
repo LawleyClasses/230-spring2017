@@ -56,10 +56,16 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
 [Project 1](projects/project1.md) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
 ## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
-When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. This week we'll look at and critique a number of websites, and apply basic design concepts to redesign of existing pages. We'll also address accessibility issues on the web.
+When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. On Tuesday we'll talk about the intersection of graphic design and interaction design, including Jesse James Garrett's excellent diagram showing the various elements of user experience. In class, I'll have you break into groups to look at and critique a number of websites.
+
+On Thursday we'll talk about accessibility for the web, and I'll have you assess the usability of some pages, and then edit a page to correct accessibility errors. 
 
 - **Tuesday Readings**
   - [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html)
+  - [The Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf)
+
+- **Tuesday Lecture**
+  - We will talk about the difference between graphic design and interaction design, and then I'll have you 
   
 
 - **Thursday Readings**
