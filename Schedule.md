@@ -66,8 +66,8 @@ On Thursday we'll talk about accessibility for the web, and I'll have you assess
 
 - **Tuesday Lecture Software Resources**
   - Flow Chart Tools
-    - [Google Drawings Flowchart Template](https://docs.google.com/drawings/d/1buwc0E5yto-iZS4QHgZOCD2Cz3zJelP1iBGbJS6Ej-c/edit?usp=sharing)
-    - Microsoft Word and PowerPoint have flowcharting symbols available for drawings and charts
+    - [Draw.io](http://draw.io/) - Free, web-based flowcharting tool
+    - Google Drawings and Microsoft Word and PowerPoint have flowcharting symbols available
     - Microsoft Visio is available on lab computers
     - Many of the wireframing tools linked below also have flowcharting stencils & tools
 
