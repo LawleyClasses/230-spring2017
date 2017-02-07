@@ -64,9 +64,26 @@ On Thursday we'll talk about accessibility for the web, and I'll have you assess
   - [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html)
   - [The Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf)
 
-- **Tuesday Lecture**
-  - We will talk about the difference between graphic design and interaction design, and then I'll have you 
-  
+- **Tuesday Lecture Software Resources**
+  - Flow Chart Tools
+    - [Google Drawings Flowchart Template](https://docs.google.com/drawings/d/1buwc0E5yto-iZS4QHgZOCD2Cz3zJelP1iBGbJS6Ej-c/edit?usp=sharing)
+    - Microsoft Word and PowerPoint have flowcharting symbols available for drawings and charts
+    - Microsoft Visio is available on lab computers
+    - Many of the wireframing tools linked below also have flowcharting stencils & tools
+
+  - Wireframing Tools
+    - Downloadable paper templates: [Sneakpeekit](http://sneakpeekit.com/), [Smashing Magazine List](https://www.smashingmagazine.com/2010/03/free-printable-sketching-wireframing-and-note-taking-pdf-templates/)
+    - [UI Stencils (Analog)](http://www.uistencils.com/collections/stencils) (Amazon has other options)
+    - [Yahoo UI Stencil Kit](https://developer.yahoo.com/ypatterns/about/stencils/) - Available in multiple formats
+    - [Cacoo](https://cacoo.com/lang/en/tour) - Web-based. Free for ≤6 diagrams, I've requested an edu license for the class
+    - [Balsamiq](https://balsamiq.com/) - Desktop for Mac and Windows. Free for 30 days. [License good until 20 May 2017 has been posted in our myCourses shell.](https://mycourses.rit.edu/d2l/le/news/633310/449029/view)
+
+  - Prototyping and Comp Tools
+    - [Style Tiles Approach](http://styletil.es/) - Alternative to graphics-heavy comps
+    - [Axure](https://www.axure.com/edu) - Available on IGM lab computers, free license for students
+    - [Invision](https://www.invisionapp.com/) - Free web-based tool
+    - [Design the Web: Layer Comps](https://www.lynda.com/Photoshop-tutorials/Using-Layer-Comps-Show-Interactive-States/114904-2.html?org=rit.edu) - Lynda.com tutorial on using Photoshop for comps
+   
 
 - **Thursday Readings**
   - [Web Accessibility Initiative: Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
