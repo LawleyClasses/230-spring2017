@@ -64,7 +64,8 @@ On Thursday we'll talk about accessibility for the web, and I'll have you assess
   - [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html)
   - [The Elements of User Experience](http://www.jjg.net/elements/pdf/elements.pdf)
 
-- **Tuesday Lecture Software Resources**
+- **Tuesday Lecture Links**
+  - [Slides from Tuesday's Lecture](weekly_materials/week3/230-Week3-UX&IA.pdf)
   - Flow Chart Tools
     - [Draw.io](http://draw.io/) - Free, web-based flowcharting tool
     - Google Drawings and Microsoft Word and PowerPoint have flowcharting symbols available
