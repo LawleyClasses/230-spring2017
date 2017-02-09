@@ -90,6 +90,8 @@ On Thursday we'll talk about accessibility for the web, and I'll have you assess
   - [Web Accessibility Initiative: Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
   - [Web Content Accessiblity Guidelines (WCAG) At-A-Glance](https://www.w3.org/WAI/WCAG20/glance/Overview)
 
+- **[Thursday Exercise (Accessibility Writeup)](weekly_materials/week3/thursdayExercise.md)**
+
 
 ## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
 Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
