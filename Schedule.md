@@ -102,7 +102,7 @@ Your second project is a portfolio site about yourself and your work. This week 
 
 - **Thursday Readings**
 Do one of the following tutorials *before* class on Thursday. I recommend the first one, but either one is acceptable. Make sure you block off time to do this; while the courses are listed as taking 3-4 hours, it can take longer since you'll frequently need to stop, try something on your computer, and then restart. 
-  - [Lynda.com: GitHub for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
+  - [Lynda.com: GitHub for Web Designers, Chapters 1-3](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
   - [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/Version-Control-Everyone/378045-2.html?org=rit.edu)
 
 ## <a name="week5"></a>Week 5 (Feb 21/23): Responsive Design & CSS Media Queries
