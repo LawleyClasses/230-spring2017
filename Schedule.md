@@ -100,6 +100,9 @@ Your second project is a portfolio site about yourself and your work. This week 
   - [Breaking Into Game Design, Part 2: Build Your Portfolio](http://www.gamasutra.com/blogs/EthanLevy/20130621/194830/Breaking_into_game_design_Part_2__build_your_portfolio.php)
   - [Graphic Design Portfolios: The New Online Resume](http://www.howdesign.com/design-career/resume-portfolio/graphic-design-portfolios-new-online-resume-design/)
 
+- **[Tuesday Exercise](weekly_materials/week4/tuesdayExercise.md)**
+In today's exercise, you'll create an initial design document for your next project, a personal portfolio site. 
+
 - **Thursday Readings**
 Do one of the following tutorials *before* class on Thursday. I recommend the first one, but either one is acceptable. Make sure you block off time to do this; while the courses are listed as taking 3-4 hours, it can take longer since you'll frequently need to stop, try something on your computer, and then restart. 
   - [Lynda.com: GitHub for Web Designers, Chapters 1-3](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
@@ -136,7 +139,7 @@ Modern CSS can control more than just the static presentation of web pages; it c
 
 
 ## SPRING BREAK
-Project 2 (a personal portfolio site using Bootstrap) is due at the end of spring break. 
+[Project 2](./projects/project2.md) (a personal portfolio site using responsive design) is due at the end of spring break. 
 
 ## <a name="week8"></a>Week 8 (Mar 21/23): Javascript Intro: Syntax, DOM, and Debuggers
 We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both VS Code and Chrome's developer tools. 
