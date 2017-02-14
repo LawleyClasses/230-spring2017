@@ -5,7 +5,7 @@ You will create a personal portfolio site to showcase your work to potential emp
 
 You must use CSS for all presentation aspects of the site, and semantic HTML elements in your pages where appropriate. Your site must pass HTML and CSS validation, and should have no accessibility errors. It also must use responsive design. 
 
-Using a CSS framework such as Bootcamp or Foundation is acceptable. 
+Using a CSS framework such as [Bootstrap](http://getbootstrap.com/) or [Foundation](http://foundation.zurb.com/) is acceptable. 
 
 ## Due Date
 The completed site is due at 11:59pm on Saturday, March 18th. The page should appear properly at the URL specified above by that time. You do not need to send me email or post anything to myCourses.
