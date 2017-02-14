@@ -1,4 +1,4 @@
-# Week 2 Thursday In-Class Exercise (9 Feb 2017)
+# Week 3 Thursday In-Class Exercise (9 Feb 2017)
 
 ## Overview & Goals
 Today you're going to evaluate your own project 1 page, and an official RIT page of your choosing, using WebAIM's Web Accessibility Evaluation Tool, keeping in mind the key issues discussed in today's lecture. 
