@@ -12,7 +12,7 @@ What functionality will your users expect? Should they be able to directly conta
 What content needs to be included to meet the needs listed in the strategy step? Make a list of all the content you expect to include in the site (including a list of individual pieces of work you've done that could or should be included), and add that to the document. 
 
 ## Structure: Information Architecture
-It's unlikely this site will involve many branching interactions, so we're going to skip the interaction design flowcharts for this document. You should, however, create a flowchart showing what pages you expect to have ont he site (the information architecture) using any of the tools discussed in last week's lecture (all of which are linked from [the schedule](../../Schedule.md#week3). Add the flowchart to your document. 
+It's unlikely this site will involve many branching interactions, so we're going to skip the interaction design flowcharts for this document. You should, however, create a flowchart showing what pages you expect to have on the site (the information architecture) using any of the tools discussed in last week's lecture (all of which are linked from [the schedule](../../Schedule.md#week3). Add the flowchart to your document. 
 
 ## Skeleton: Wireframe
 If you complete all of the above items, start work on wireframes for the layout and organization of your pages. What will the home page contain, and how will it be laid out? What about the contact page? Individual content pages? (Links to a number of wireframing tools can also be found in [the schedule](../../Schedule.md#week3). Most of those tools will allow you to export an image of the wireframe (or you can take a screenshot, or take a picture if it's hand-drawn). Add this to your document. 
