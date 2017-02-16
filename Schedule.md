@@ -107,6 +107,8 @@ Your second project is a portfolio site about yourself and your work. This week 
 Do one of the following tutorials *before* class on Thursday. I recommend the first one, but either one is acceptable. Make sure you block off time to do this; while the courses are listed as taking 3-4 hours, it can take longer since you'll frequently need to stop, try something on your computer, and then restart. 
   - [Lynda.com: GitHub for Web Designers, Chapters 1-3](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
   - [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/Version-Control-Everyone/378045-2.html?org=rit.edu)
+  
+- **[Thursday Exercise](weekly_materials/week4/Git%20In-Class%20Exercise.pdf)**
 
 ## <a name="week5"></a>Week 5 (Feb 21/23): Responsive Design & CSS Media Queries
 Mobile devices now make up more than half of the traffic to major websites. That means web designers need to make sure their pages work on a variety of screens, not just high-resolution computer monitors. The process of creating HTML and CSS that will adapt to a variety of devices is called responsive design. CSS Media Queries allow responsive design to work more effectively by determining what environment the page will be displayed in. 
