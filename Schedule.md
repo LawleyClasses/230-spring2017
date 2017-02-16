@@ -134,7 +134,7 @@ Because I will be in San Francisco for GDC this week, you will work through thes
   - TBA 
 
 ## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
-Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week we'll look at CSS animation and transition effects.
+Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week, we'll look at CSS animation and transition effects. 
 
 - **Tuesday Readings**
   - [Lynda.com CSS:Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html?org=rit.edu)
@@ -157,10 +157,10 @@ Most modern websites don't use completely static data--they dynamically generate
 
 Your third project is due at the end of this week.
 
-## <a name="week12"></a>Week 12 (Apr 18/20): Web Server Basics & .htaccess Files 
-Understanding the basics of how a web server works can make your work as a designer and/or developer much easier. We'll look at basic web server operation, as well as the use of .htaccess files to modify how the server works with your pages. 
+## <a name="week12"></a>Week 12 (Apr 18/20): HTML Canvas 
+The HTML Canvas element is used to draw graphics on a web page in real-time using Javascript. We'll look at some basic canvas graphics implementations this week.  
 
-## <a name="week13"></a>Week 13 (Apr 25/27): LAMP Concepts & WordPress Install
+## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install
 The majority of web servers on the Internet use Apache software running on a Linux operating system. Many also use mySQL databases, and the PHP server-side scripting language. The combination of these four technologies is referred to as "LAMP." This week we'll install a copy of WordPress onto a LAMP server, and talk about dynamic database-driven websites. 
 
 ## <a name="week14"></a>Week 14 (Apr 2/4): PHP & MySQL Basics
