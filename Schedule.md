@@ -109,26 +109,32 @@ Do one of the following tutorials *before* class on Thursday. I recommend the fi
   - [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/Version-Control-Everyone/378045-2.html?org=rit.edu)
 
 ## <a name="week5"></a>Week 5 (Feb 21/23): Responsive Design & CSS Media Queries
-Mobile devices now make up more than half of the traffic to major websites. That means web designers need to make sure their pages work on a variety of screens, not just high-resolution computer monitors. The process of creating HTML and CSS that will adapt to a variety of devices is called responsive design. CSS Media Queries allow responsive design to work more effectively by determining what environment the page will be displayed in. 
+Mobile devices now make up more than half of the traffic to major websites. And it's still the case that people regularly print out web pages for a variety of reasons. That means web designers need to make sure their pages work on a variety of screens, and in print format--not just on high-resolution computer monitors. The process of creating HTML and CSS that will adapt to a variety of devices is called responsive design. CSS Media Queries allow responsive design to work more effectively by determining how/where the page will be displayed. 
 
 - **Tuesday Readings**
 On Tuesday we'll look specifically at using CSS to create different versions of a page for different media types. This was covered in the CSS Fundamentals tutorial from week 2, but for review, you should look at the portion of that tutorial dealing with the topic. 
   - [Lynda.com CSS Fundamentals: Media Types & Queries](https://www.lynda.com/CSS-tutorials/Media-types-media-queries/417645/484795-4.html?org=rit.edu)
+
+- **Tuesday Exercise**
+Download the [resume.zip](weekly_materials/week5/resume.zip) from the week5 folder, and unzip the contents. There will be a resume-example folder, with an index.html file, a styles.css file, and a folder with images. Rename the folder to week5, and put it in your igme230 directory.  
+
+In class, I'll walk through the file with you, discuss the way CSS is used to format the page, and show some modifications that I made to create a print-friendly version. Then you'll create your own print-friendly version. When you're done, you'll upload the week5 directory to your igme230 directory on Banjo. Your version should be uploaded by 11:59pm tonight (Tuesday, 2/21). 
 
 - **Thursday Readings**
 On Thursday we'll dive more deeply into responsive design concepts.
   - [Lynda.com: Responsive Design Fundamentals](https://www.lynda.com/Web-Responsive-Design-tutorials/Responsive-Design-Fundamentals/104969-2.html?org=rit.edu) - Like the "CSS Fundamentals" tutorial from week 2, this is not a hands-on tutorial--instead, it is an overview of what responsive design is, why it's important, and how it's typically implemented. In class, we'll have a hands-on exercise applying these concepts. 
  
 ## <a name="week6"></a>Week 6 (Feb 28/Mar 2): Web Development Frameworks
-Many responsive websites are built using a pre-existing framework of CSS and Javscript that enable the developer to focus on content and design rather than the underlying code necessary for effective responsive functionality. We'll be working with one of the most widely used frameworks, Bootstrap. 
+Many responsive websites are built using a pre-existing framework of CSS and Javscript that enables the developer to focus on content and design rather than the underlying code necessary for effective responsive functionality. We'll be working with one of the most widely used frameworks, Bootstrap. 
 
-Because I will be in San Francisco for GDC this week, you will work through these tutorials and then implement exercises on your own. 
+Because I will be in San Francisco for GDC this week, you will work through these tutorials and then implement the homework exercise on your own. 
 
 - **Week 6 Tutorials**
-  - [Lynda.com: Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu) -- Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. 
-  - [Lynda.com: Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu) - This shorter tutorial looks at the differences between Bootstrap 3 and 4.
+  - *Required*: [Lynda.com: CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu) -- A hands-on introduction to CSS frameworks. Completing this week's required homework exercise will depend on your having completed this tutorial. Please actually *do the exercises* included in the tutorial, don't just passively watch the videos!
+  - *Optional*: [Lynda.com: Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu) -- Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. 
+  - *Optional*: [Lynda.com: Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu) - This shorter tutorial looks at the differences between Bootstrap 3 and 4.
 
-- **Week 6 Exercise**
+- **Week 6 Homework Exercise**
   - TBA 
 
 ## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
@@ -136,6 +142,9 @@ Modern CSS can control more than just the static presentation of web pages; it c
 
 - **Tuesday Readings**
   - [Lynda.com CSS:Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html?org=rit.edu)
+
+- **Thursday Exercise**
+  - Bring a wireframe and mockup of your personal portfolio to class; you'll be broken up into small groups to critique each other's designs. 
 
 
 ## SPRING BREAK
@@ -168,4 +177,4 @@ Under the hood, WordPress uses both PHP and MySQL. We'll talk about both technol
 Once you understand CSS, PHP, and MySQL, it becomes much easier to modify WordPress themes and even create your own. On Tuesday, we'll look at what goes into a WordPress theme. And on Thursday, you'll take the final practical exam for the class. 
 
 ## <a name="finals"></a>Finals Week: Practical Exam Makeup
-In addition to the makeup practical exam, your group project will be due this week. 
+In addition to the makeup practical exam, your final individual project will be due this week. 
