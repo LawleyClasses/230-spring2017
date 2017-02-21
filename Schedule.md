@@ -12,8 +12,8 @@
 - [Week 9 (Mar 28/30): Javacript Cont'd: Events/Listeners, CSS](#week9)
 - [Week 10 (Apr 4/6): JQuery](#week10)
 - [Week 11 (Apr 11/13): Client-Side Data Access & Site Security](#week11)
-- [Week 12 (Apr 18/20): Web Server Basics & .htaccess Files](#week12)
-- [Week 13 (Apr 25/27): LAMP Concepts & WordPress Install](#week13)
+- [Week 12 (Apr 18/20): HTML Canvas](#week12)
+- [Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install](#week13)
 - [Week 14 (May 2/4): PHP & MySQL Basics](#week14)
 - [Week 15 (May 9/11): WordPress Themes & Final Practical](#week15)
 - [Finals Week: Practical Exam Makeup](#finals)
@@ -107,6 +107,8 @@ Your second project is a portfolio site about yourself and your work. This week 
 Do one of the following tutorials *before* class on Thursday. I recommend the first one, but either one is acceptable. Make sure you block off time to do this; while the courses are listed as taking 3-4 hours, it can take longer since you'll frequently need to stop, try something on your computer, and then restart. 
   - [Lynda.com: GitHub for Web Designers, Chapters 1-3](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
   - [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/Version-Control-Everyone/378045-2.html?org=rit.edu)
+  
+- **[Thursday Exercise](weekly_materials/week4/Git%20In-Class%20Exercise.pdf)**
 
 ## <a name="week5"></a>Week 5 (Feb 21/23): Responsive Design & CSS Media Queries
 Mobile devices now make up more than half of the traffic to major websites. And it's still the case that people regularly print out web pages for a variety of reasons. That means web designers need to make sure their pages work on a variety of screens, and in print format--not just on high-resolution computer monitors. The process of creating HTML and CSS that will adapt to a variety of devices is called responsive design. CSS Media Queries allow responsive design to work more effectively by determining how/where the page will be displayed. 
@@ -138,7 +140,7 @@ Because I will be in San Francisco for GDC this week, you will work through thes
   - TBA 
 
 ## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
-Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week we'll look at CSS animation and transition effects.
+Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week, we'll look at CSS animation and transition effects. 
 
 - **Tuesday Readings**
   - [Lynda.com CSS:Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html?org=rit.edu)
@@ -164,10 +166,10 @@ Most modern websites don't use completely static data--they dynamically generate
 
 Your third project is due at the end of this week.
 
-## <a name="week12"></a>Week 12 (Apr 18/20): Web Server Basics & .htaccess Files 
-Understanding the basics of how a web server works can make your work as a designer and/or developer much easier. We'll look at basic web server operation, as well as the use of .htaccess files to modify how the server works with your pages. 
+## <a name="week12"></a>Week 12 (Apr 18/20): HTML Canvas 
+The HTML Canvas element is used to draw graphics on a web page in real-time using Javascript. We'll look at some basic canvas graphics implementations this week.  
 
-## <a name="week13"></a>Week 13 (Apr 25/27): LAMP Concepts & WordPress Install
+## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install
 The majority of web servers on the Internet use Apache software running on a Linux operating system. Many also use mySQL databases, and the PHP server-side scripting language. The combination of these four technologies is referred to as "LAMP." This week we'll install a copy of WordPress onto a LAMP server, and talk about dynamic database-driven websites. 
 
 ## <a name="week14"></a>Week 14 (Apr 2/4): PHP & MySQL Basics
