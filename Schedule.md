@@ -125,19 +125,22 @@ In class, I'll walk through the file with you, discuss the way CSS is used to fo
 - **Thursday Readings**
 On Thursday we'll dive more deeply into responsive design concepts.
   - [Lynda.com: Responsive Design Fundamentals](https://www.lynda.com/Web-Responsive-Design-tutorials/Responsive-Design-Fundamentals/104969-2.html?org=rit.edu) - Like the "CSS Fundamentals" tutorial from week 2, this is not a hands-on tutorial--instead, it is an overview of what responsive design is, why it's important, and how it's typically implemented. In class, we'll have a hands-on exercise applying these concepts. 
+
+- **[Thursday Exercise](weekly_materials/week5/thursdayExercise.md)**: In this exercise you'll be adding CSS to a simple web page to create a basic responsive version. 
  
-## <a name="week6"></a>Week 6 (Feb 28/Mar 2): Web Development Frameworks
-Many responsive websites are built using a pre-existing framework of CSS and Javscript that enables the developer to focus on content and design rather than the underlying code necessary for effective responsive functionality. We'll be working with one of the most widely used frameworks, Bootstrap. 
+## <a name="week6"></a>Week 6 (Feb 28/Mar 2): CSS Grids and Frameworks
+Many responsive websites are built using a pre-existing framework of CSS (and often Javscript, as well) that enables the developer to focus on content and design rather than the underlying code necessary for responsive functionality. 
 
 Because I will be in San Francisco for GDC this week, you will work through these tutorials and then implement the homework exercise on your own. 
 
-- **Week 6 Tutorials**
-  - *Required*: [Lynda.com: CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu) -- A hands-on introduction to CSS frameworks. Completing this week's required homework exercise will depend on your having completed this tutorial. Please actually *do the exercises* included in the tutorial, don't just passively watch the videos!
-  - *Optional*: [Lynda.com: Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu) -- Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. 
-  - *Optional*: [Lynda.com: Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu) - This shorter tutorial looks at the differences between Bootstrap 3 and 4.
+- **Week 6 Tutorials: Do *One* of These**
+  - [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html?org=rit.edu)
+    - A basic introduction to using a CSS framework (in this case, Skeleton) to create a responsive website. 
+  - [CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu)   - A general but more technical introduction to CSS frameworks and grids, using Foundation (a CSS and JS framwork) for the example exercises
+  - [Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu)    - Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. If you decide to work with Bootstrap for your project, I recommend also completing [Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu), which looks at the differences between Bootstrap 3 and 4.
 
-- **Week 6 Homework Exercise**
-  - TBA 
+- **Week 6 Exercise**
+  - Will be posted by Sunday, February 26 
 
 ## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
 Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week, we'll look at CSS animation and transition effects. 
