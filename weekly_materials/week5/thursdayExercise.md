@@ -145,7 +145,7 @@ If you view the page in the browser again at a viewport size of >480px, it shoul
 
 Now, if you try this on a smartphone, depending on the model, you may notice that some text is smaller than you want or other issues pop up. This is because the smartphone scales everything on the page, which you can correct by adding the following in the <head> of your HTML:
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+`<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
 
 
 ## Submitting Your Work
