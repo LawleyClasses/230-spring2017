@@ -134,10 +134,9 @@ Many responsive websites are built using a pre-existing framework of CSS (and of
 Because I will be in San Francisco for GDC this week, you will work through these tutorials and then implement the homework exercise on your own. 
 
 - **Week 6 Tutorials: Do *One* of These**
-  - [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html?org=rit.edu)
-    - A basic introduction to using a CSS framework (in this case, Skeleton) to create a responsive website. 
-  - [CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu)   - A general but more technical introduction to CSS frameworks and grids, using Foundation (a CSS and JS framwork) for the example exercises
-  - [Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu)    - Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. If you decide to work with Bootstrap for your project, I recommend also completing [Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu), which looks at the differences between Bootstrap 3 and 4.
+  - [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html?org=rit.edu): A basic introduction to using a CSS framework (in this case, Skeleton) to create a responsive website. 
+  - [CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu): A general but more technical introduction to CSS frameworks and grids, using Foundation (a CSS and JS framwork) for the example exercises
+  - [Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu): Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. If you decide to work with Bootstrap for your project, I recommend also completing [Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu), which looks at the differences between Bootstrap 3 and 4.
 
 - **Week 6 Exercise**
   - Will be posted by Sunday, February 26 
