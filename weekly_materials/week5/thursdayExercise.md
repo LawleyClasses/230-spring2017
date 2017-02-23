@@ -150,4 +150,4 @@ Now, if you try this on a smartphone, depending on the model, you may notice tha
 
 ## Submitting Your Work
 
-Upload your week5b folder with the updated main.css file to your igme230 folder on Banjo. Make sure you test the file on the people.rit.edu server to make sure it displays properly, and then make sure you've added a link to the folder from your personal page. 
+Upload your week5b folder with the updated main.css file to your igme230 folder on Banjo by 11:59pm tonight. Make sure you test the file on the people.rit.edu server to make sure it displays properly, and then make sure you've added a link to the folder from your personal page. 
