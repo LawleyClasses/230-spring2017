@@ -95,13 +95,14 @@ Reload the page. Note that we now have #main and `<aside>` where we want them, w
 
 To give our page a max-width so that the user can’t infinitely scale our image, and to add a little padding around the content, add the following to the Structure section:
 
+```css
 #wrapper {
 	width: 96%;	
 	max-width: 920px;
 	margin: auto;
 	padding: 2%;
 } 
-
+```
 The “non-mobile” version of this site is done, now let’s use a media query to give different CSS to a mobile device.
 
 ## Creating the Mobile Styles
