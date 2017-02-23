@@ -4,7 +4,7 @@
 Today's exercise will take you through the process of modifying the CSS for a simple website to make it responsive to varying screen size and resolution. 
 
 ## Setup
-Download the [week5b.zip](week5b.zip) zip file, and extract the week5b folder. Put the folder on your desktop, or in your igme230 directory. Open the directory using Visual Studio Pro.
+Download the [week5b.zip](week5b.zip) zip file, and extract the week5b folder. Put the folder on your desktop, or in your igme230 directory. Open the directory using Visual Studio Code.
 
 ## The HTML File
 Open the darth.html file in a web browser. It doesn't have any CSS styling yet, so it's pretty unimpressive. 
