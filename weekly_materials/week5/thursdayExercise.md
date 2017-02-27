@@ -4,7 +4,7 @@
 Today's exercise will take you through the process of modifying the CSS for a simple website to make it responsive to varying screen size and resolution. 
 
 ## Setup
-Download the [week5b.zip](week5b.zip) zip file, and extract the week5b folder. Put the folder on your desktop, or in your igme230 directory. Open the directory using Visual Studio Pro.
+Download the [week5b.zip](week5b.zip) zip file, and extract the week5b folder. Put the folder on your desktop, or in your igme230 directory. Open the directory using Visual Studio Code.
 
 ## The HTML File
 Open the darth.html file in a web browser. It doesn't have any CSS styling yet, so it's pretty unimpressive. 
@@ -95,13 +95,14 @@ Reload the page. Note that we now have #main and `<aside>` where we want them, w
 
 To give our page a max-width so that the user can’t infinitely scale our image, and to add a little padding around the content, add the following to the Structure section:
 
+```css
 #wrapper {
 	width: 96%;	
 	max-width: 920px;
 	margin: auto;
 	padding: 2%;
 } 
-
+```
 The “non-mobile” version of this site is done, now let’s use a media query to give different CSS to a mobile device.
 
 ## Creating the Mobile Styles
@@ -144,9 +145,9 @@ If you view the page in the browser again at a viewport size of >480px, it shoul
 
 Now, if you try this on a smartphone, depending on the model, you may notice that some text is smaller than you want or other issues pop up. This is because the smartphone scales everything on the page, which you can correct by adding the following in the <head> of your HTML:
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+`<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
 
 
 ## Submitting Your Work
 
-Upload your week5b file with the updated main.css file to your igme230 folder on Banjo. Make sure you test the file on the people.rit.edu server to make sure it displays properly, and then make sure you've added a link to the folder from your personal page. 
+Upload your week5b folder with the updated main.css file to your igme230 folder on Banjo by 11:59pm tonight. Make sure you test the file on the people.rit.edu server to make sure it displays properly, and then make sure you've added a link to the folder from your personal page. 
