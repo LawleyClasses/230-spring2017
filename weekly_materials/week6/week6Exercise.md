@@ -43,7 +43,7 @@ It's not quite right yet, though. In the finished version, the logo and navigati
 
 There's one last thing we need to do with the navigation bar, and that's change the logo image so that it's no longer rectangular. Take a look at the [CSS->Media](http://materializecss.com/media-css.html) documentation to see how to do that. 
 
-The last two fixes will require us to add some new styles for this document by editing the css/styles.css. First we need to fix the spacing above the logo. Add this line to the styls.css file: `.logo-image { padding-top:8px;}`. Then add the logo-image class to the img tag in the HTML, like this: <a href="#" class="brand-logo"><img class="circle logo-image" src="images/beans-tiny.jpg" alt="logo" /></a>
+The last two fixes will require us to add some new styles for this document by editing the css/styles.css. First we need to fix the spacing above the logo. Add this line to the styls.css file: `.logo-image { padding-top:8px;}`. Then add the logo-image class to the img tag in the HTML, like this: `<a href="#" class="brand-logo"><img class="circle logo-image" src="images/beans-tiny.jpg" alt="logo" /></a>`
 
 We also want the navigation menu links to be a little bit larger than they currently are. In the styles.css file, add this line: `nav ul a { font-size: 1.2rem;}` (For more information on using "rem" as a size unit, see [this article](https://css-tricks.com/confused-rem-em/).)
 
