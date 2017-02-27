@@ -138,8 +138,7 @@ Because I will be in San Francisco for GDC this week, you will work through thes
   - [CSS Frameworks and Grids](https://www.lynda.com/CSS-tutorials/CSS-Frameworks-Grids-2016-Q3-REVISION/504266-2.html?org=rit.edu): A general but more technical introduction to CSS frameworks and grids, using Foundation (a CSS and JS framwork) for the example exercises
   - [Bootstrap 3 Fundamentals](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-3-Essential-Training/417641-2.html?org=rit.edu): Even though Bootstrap is now up to version 4, this tutorial covers the basics of how Bootstrap works, and how you can use it to create responsive designs. If you decide to work with Bootstrap for your project, I recommend also completing [Bootstrap 4: First Look](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html?org=rit.edu), which looks at the differences between Bootstrap 3 and 4.
 
-- **Week 6 Exercise**
-  - Will be posted by Sunday, February 26 
+- **[Week 6 Exercise](weekly_materials/week6/week6Exercise.md)**: In this exercise you'll duplicate a web page layout using a CSS Framework.  
 
 ## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
 Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week, we'll look at CSS animation and transition effects. 
