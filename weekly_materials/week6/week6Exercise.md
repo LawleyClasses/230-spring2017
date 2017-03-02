@@ -55,8 +55,7 @@ We want the heading to be centered, and we also want the text to be light green.
 
 We also want the subheading to be centered, so it needs the class for centering, and we don't want it to use a light weight of the typeface. We also want to use the section class, to add a little extra space above and below. Because the options for modifying text weight aren't well documented on the Materialize site, here's the code you need: `<h5 class="center light section">`
 
-(Note: I based this tutorial on an existing Materialize template, which really didn't do a great job with semantic structure; the page really shouldn't jump from h1 to h5! But since our focus in this exercise is on formatting, and I wanted to get this to you on time, I didn't add new style information in order to fix those semantic and accessibility issues.)
-
+(Note: I based this tutorial on an existing Materialize template, which really didn't do a great job with semantic structure; the page really shouldn't jump from h1 to h5! But since our focus in this exercise is on formatting, and I wanted to get this to you on time, I didn't rewrite the HTML to address those semantic and accessibility issues.)
 
 ## Using the Grid
 
@@ -96,7 +95,7 @@ Web developers are increasingly using icon fonts in place of images, since they'
 
 To access them, we'll put this line into the head of the document, in the icons section, above the materialize icons:  `<script src="https://use.fontawesome.com/aff9c5aa74.js"></script>`  Like Google Fonts, this will only work when you're online, since it's accessing an online version of the font. 
 
-The Awesome Fonts site has good documentation and examples for how to include the icons on your page. Many frameworks use the `<i>` tag, which used to be used for italics, to indicate an icon. You can also use the `<span>` tag. Either way, since we're using only icons and not text, we'll want to use some ARIA tags to help users with screenreaders use the links. Here's what I did for the email icon: `<i class="fa fa-envelope fa-2x" aria-hidden="true" aria-label="email"></i>`. The fa class says to use Font Awesome. fa-envelope is the specific icon I want (there's a cheatsheet on their site that shows the names of all the icons), and fa-2x says to make the icon twice as big as the default. Use the [Font Awesome site](http://fontawesome.io/icons/) to find the names of the three other icons, and add that code to the site, then preview it. The icons are there, but we still need to modify the formatting. 
+The Font Awesome site has [good documentation and examples for how to include the icons on your page](http://fontawesome.io/examples/). Many frameworks use the `<i>` tag, which used to be used for italics, to indicate an icon. You can also use the `<span>` tag. Either way, since we're using only icons and not text, we'll want to use some ARIA tags to help users with screenreaders use the links. Here's what I did for the email icon: `<i class="fa fa-envelope fa-2x" aria-hidden="true" aria-label="email"></i>`. The fa class says to use Font Awesome, fa-envelope is the specific icon I want (there's a cheatsheet on their site that shows the names of all the icons), and fa-2x says to make the icon twice as big as the default. Use the [Font Awesome site](http://fontawesome.io/icons/) to find the names of the three other icons, and add that code to the site, then preview it. The icons are there, but we still need to modify the formatting. 
 
 To do this, we'll have to add some styles to the styles.css file. We want to add left and right padding to the icons, and we don't want them to be the default link blue. Here's what you'll put in the styles.css file:
 
