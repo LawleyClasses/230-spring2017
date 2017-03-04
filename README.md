@@ -43,7 +43,7 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 - **[Project 1](./projects/project1.md)**: Personal Page for Class (10% of final grade, due 4 Feb 2017)
 
-- **[Project 2](./projects/project1.md)**: Personal Portfolio (20% of final grade, due 19 March 2017)
+- **[Project 2](./projects/project2.md)**: Personal Portfolio (20% of final grade, due 19 March 2017)
 
 - **Project 3**: Tutorial Site Using Javascript (20% of final grade, due 15 April 2017)
 
