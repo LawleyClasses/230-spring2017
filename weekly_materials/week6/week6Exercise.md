@@ -1,4 +1,4 @@
-# Week 5 Thursday Homework Exercise (23 Feb 2017)
+# Week 6 Thursday Homework Exercise (23 Feb 2017)
 
 ## Overview & Goals
 You're going to use a CSS framework to create a website for a fictional restaurant. In my example, I'm going to use the Materialize framework from Google. No, it wasn't included in any of the tutorials I assigned. (And, in fact, Lynda.com doesn't even have a Materialize tutorial.) However, if you've completed one of those three tutorials that I assigned, you'll have a basic familiarity with how to use the styles and grids provided with a CSS framework. 
