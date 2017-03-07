@@ -1,10 +1,10 @@
 # Week 7 Tuesday Exercise: CSS Animation (23 Feb 2017)
 
 ## Overview & Goals
-Today you're going to take the restaurant page you built for last week's exercise and animate some elements on the page using the techniques shown in the CSS Animations tutorial. 
+Today you're going to take the restaurant page you built for last week's exercise and animate some elements on the page using the techniques shown in the CSS Animations tutorial. If you haven't done either, you should use today's class to first complete the exercise from last week, and then, if you have time, work on the tutorial. 
 
 ## Previewing What You're Going to Make
-Because I can't give you the functioning animation without also revealing the code to accomplish it, I've uploaded a video clip to YouTube showing how the page behaves when it first loads, and when mousing over specific elements. Watch it here: https://youtu.be/h78Js94cJD4
+Because I can't give you the functioning animation without also revealing the code to accomplish it, I've uploaded a video clip to YouTube showing how the page behaves when it first loads, and when mousing over specific elements. Watch it here: https://youtu.be/h78Js94cJD4 (Note: after I uploaded this video I changed the technique for scaling the food images; the approach described below in the exercise uses transitions rather than keyframe animations, and allows for easing-out of the scaling.)
 
 ## Setting Up
 Make a copy of your completed week6 folder and call it week7. When you're done, you'll upload the week7 folder to your igme230 directory on banjo. All of the CSS you add will go into the styles.css page in the css subdirectory. 
