@@ -145,9 +145,8 @@ Modern CSS can control more than just the static presentation of web pages; it c
 
 - **Tuesday Readings**
   - [Lynda.com CSS:Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html?org=rit.edu)
-
-- **Thursday Exercise**
-  - Bring a wireframe and mockup of your personal portfolio to class; you'll be broken up into small groups to critique each other's designs. 
+- **[Tuesday Exercise](weekly_materials/week7/week7tuesdayExercise.md)**: You'll be applying what you learned in the CSS Animation tutorial to the page you created in the week 6 exercise. 
+- **Thursday Exercise**: Bring a wireframe and mockup of your personal portfolio to class; you'll be broken up into small groups to critique each other's designs. 
 
 
 ## SPRING BREAK
