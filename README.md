@@ -45,9 +45,9 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 - **[Project 2](./projects/project2.md)**: Personal Portfolio (20% of final grade, due 19 March 2017)
 
-- **Project 3**: Tutorial Site Using Javascript (20% of final grade, due 15 April 2017)
+- **[Project 3](./projects/project3.md)**: Group Project (20% of final grade, due 17 April 2017)
 
-- **Project 4**: Group Project: TBD (20% of final grade, due finals week)
+- **Project 4**: Final Personal Project: TBD (20% of final grade, due finals week)
 
 ### In-Class Exercises (20% of final grade)
 Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, and linked from the [Schedule.md](Schedule.md) file with information on their required submission date and time.

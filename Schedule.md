@@ -8,11 +8,11 @@
 - [Week 5 (Feb 21/23): Responsive Design & CSS Media Queries](#week5)
 - [Week 6 (Feb 28/Mar 2): Web Development Frameworks](#week6)
 - [Week 7 (Mar 7/9): CSS Animation & Transitions](#week7)
-- [Week 8 (Mar 21/23): Javascript Intro: Syntax, DOM, and Debuggers](#week8)
-- [Week 9 (Mar 28/30): Javacript Cont'd: Events/Listeners, CSS](#week9)
-- [Week 10 (Apr 4/6): JQuery](#week10)
-- [Week 11 (Apr 11/13): Client-Side Data Access & Site Security](#week11)
-- [Week 12 (Apr 18/20): HTML Canvas](#week12)
+- [Week 8 (Mar 21/23): A Few Loose Ends: CSS Flexbox & HTML Forms](#week8)
+- [Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers](#week9)
+- [Week 10 (Apr 4/6): Javacript Cont'd: Events/Listeners, CSS](#week10)
+- [Week 11 (Apr 11/13): JQuery](#week11)
+- [Week 12 (Apr 18/20): Creating Graphics with Text: HTML Canvas & SVG](#week12)
 - [Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install](#week13)
 - [Week 14 (May 2/4): PHP & MySQL Basics](#week14)
 - [Week 15 (May 9/11): WordPress Themes & Final Practical](#week15)
@@ -152,30 +152,45 @@ Modern CSS can control more than just the static presentation of web pages; it c
 ## SPRING BREAK
 [Project 2](./projects/project2.md) (a personal portfolio site using responsive design) is due at the end of spring break. 
 
-## <a name="week8"></a>Week 8 (Mar 21/23): Javascript Intro: Syntax, DOM, and Debuggers
-We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both VS Code and Chrome's developer tools. 
+## <a name="week8"></a>Week 8 (Mar 21/23): A Few Loose Ends: CSS Flexbox, & HTML Forms
+Before we move on from HTML and CSS to Javascript, there are a few more concepts we need to look at. On Tuesday, we'll look at CSS Flexbox, a relatively new approach to creating flexible, responsive page layouts. While it's only supported by relatively recent browsers, it's starting to be widely used in web design and development. And on Thursday, we'll look at HTML forms, which will become more important when we start writing code to work with them. 
 
-## <a name="week9"></a>Week 9 (Mar 28/30): Javacript Cont'd: Events/Listeners, CSS
-This week is a continuation of basic Javascript programming, with a focus on HTML events and event listenters, as well as the interaction between Javascript and CSS.
+This week I'll also be assigning you to groups for [project 3](projects/project3.md), and your first deliverable will be do at the end of the week. 
 
-## <a name="week10"></a>Week 10 (Apr 4/6): JQuery
-A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). We'll be looking at JQuery and how to use it this week. 
+- **Tuesday Readings**
+Choose **one** of the following: 
+  - [MDN: Using CSS Flexible Boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+  - [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Lynda.com: CSS: Flexbox First Look](https://www.lynda.com/CSS-tutorials/CSS-Flexbox-First-Look/116352-2.html?org=rit.edu)
 
-## <a name="week11"></a>Week 11 (Apr 11/13): Client-Side Data Access & Site Security
-Most modern websites don't use completely static data--they dynamically generate content from databases or other inputs. This week we'll look at data access on the client (browser) side, and also will talk about the security implications of client-side data access.
 
-Your third project is due at the end of this week.
+## <a name="week9"></a>Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers
+We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both HTML editors (VS Code and/or Brackets) and Chrome's developer tools. 
 
-## <a name="week12"></a>Week 12 (Apr 18/20): HTML Canvas 
-The HTML Canvas element is used to draw graphics on a web page in real-time using Javascript. We'll look at some basic canvas graphics implementations this week.  
+Your second [group project](projects/project3.md) deliverable--a content inventory and information architecture diagram--is due in class on Tuesday. 
 
-## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install
-The majority of web servers on the Internet use Apache software running on a Linux operating system. Many also use mySQL databases, and the PHP server-side scripting language. The combination of these four technologies is referred to as "LAMP." This week we'll install a copy of WordPress onto a LAMP server, and talk about dynamic database-driven websites. 
+## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
+This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
 
-## <a name="week14"></a>Week 14 (Apr 2/4): PHP & MySQL Basics
-Under the hood, WordPress uses both PHP and MySQL. We'll talk about both technologies this week, and look at how the WordPress database is organized. 
+Your third [group project](projects/project3.md) deliverable--wireframes for each page type on the site--is due in class on Tuesday.
 
-## <a name="week15"></a>Week 15 (Apr 9/11): WordPress Themes & Practical Exam
+## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
+A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
+
+Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Tuesday. 
+
+## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: HTML Canvas & SVG
+While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. This week we'll take a brief look at two approaches for this: the HTML Canvas element, and Scalable Vector Graphics (SVG). 
+
+Your final [group project](projects/project3.md) site is due on Monday morning of this week.
+
+## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics
+We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. 
+
+## <a name="week14"></a>Week 14 (May 2/4): LAMP Concepts & WordPress Install
+The majority of web servers on the Internet use Apache software running on a Linux operating system. Many web applications also use mySQL databases, and the PHP server-side scripting language. The combination of these four technologies is referred to as "LAMP" (Linux, Apache, mySQL, and PHP) This week we'll install a copy of WordPress onto a LAMP server, and talk about dynamic database-driven websites.  
+
+## <a name="week15"></a>Week 15 (May 9/11): WordPress Themes & Practical Exam
 Once you understand CSS, PHP, and MySQL, it becomes much easier to modify WordPress themes and even create your own. On Tuesday, we'll look at what goes into a WordPress theme. And on Thursday, you'll take the final practical exam for the class. 
 
 ## <a name="finals"></a>Finals Week: Practical Exam Makeup
