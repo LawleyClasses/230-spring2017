@@ -1,4 +1,4 @@
-# Week 7 Tuesday Exercise: CSS Animation (23 Feb 2017)
+# Week 7 Tuesday Exercise: CSS Animation (7 March 2017)
 
 ## Overview & Goals
 Today you're going to take the restaurant page you built for last week's exercise and animate some elements on the page using the techniques shown in the CSS Animations tutorial. If you haven't done either, you should use today's class to first complete the exercise from last week, and then, if you have time, work on the tutorial. 
