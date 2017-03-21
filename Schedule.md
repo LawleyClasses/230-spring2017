@@ -168,12 +168,16 @@ Choose **one** of the following:
 ## <a name="week9"></a>Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers
 We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both HTML editors (VS Code and/or Brackets) and Chrome's developer tools. 
 
-Your second [group project](projects/project3.md) deliverable--a content inventory and information architecture diagram--is due in class on Tuesday. 
+- **Tuesday Readings**
+  - [MDN: Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+  - [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+  
+Your second [group project](projects/project3.md) deliverable--a content inventory and information architecture diagram--is due in class on Thursday. 
 
 ## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
 This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
 
-Your third [group project](projects/project3.md) deliverable--wireframes for each page type on the site--is due in class on Tuesday.
+Your third [group project](projects/project3.md) deliverable--wireframes for each page type on the site--is due in class on Thursday.
 
 ## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
 A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
@@ -183,7 +187,7 @@ Your fourth [group project](projects/project3.md) deliverable--design mockups fo
 ## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: HTML Canvas & SVG
 While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. This week we'll take a brief look at two approaches for this: the HTML Canvas element, and Scalable Vector Graphics (SVG). 
 
-Your final [group project](projects/project3.md) site is due on Monday morning of this week.
+Your final [group project](projects/project3.md) site is due on Wednesday morning of this week.
 
 ## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics
 We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. 
