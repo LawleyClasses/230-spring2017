@@ -23,6 +23,7 @@ The index.html page will have two major content sections, which you'll define us
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
     <title>Your Name's IGME-230 Classwork, Spring 2017</title>
     <link rel="stylesheet" href="flexbox.css">
 </head>
