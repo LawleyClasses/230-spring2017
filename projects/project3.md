@@ -8,16 +8,16 @@ Working as part of a group, you'll design and implement a website with tips and 
 ### Strategy and Scope (Submit to myCourses by 8am Sat 3/25)
 Your group should write and submit a document in which you describe the specific problem or need you'll be addressing (what should IGM students know that they don't? what would be useful to have in a single place for them to check?), as well as the type of content that you intend to include to address that problem.
 
-### Structure (Bring to class Tues 3/28; submit to myCourses by 11:59pm)
+### Structure (Bring to class Thursday 3/30; submit to myCourses by 11:59pm)
 Create an inventory list of content that you'll include on your site--what's already out there than you can use? What will you need to create yourselves? Generate an information architecture (*not interaction flow*) diagram showing how that content on your site will be grouped and organized. We'll do a brief critique in class before you turn this in at the end of the day. 
 
-### Skeleton (Bring to class Tues 4/4; submit to myCourses dropbox by 11:59pm)
+### Skeleton (Bring to class Thursday 4/6; submit to myCourses dropbox by 11:59pm)
 Create wireframes for each of your major page types (e.g. main/landing page, main category page, individual content page, about page), showing the basic grid and page layout you plan to use. We'll do a brief critique in class, and your group can start on design mockups and code once that's done.
 
-### Surface (Bring to class Tues 4/11; submit to myCourses dropbox by 11:59pm)
+### Surface (Bring to class Thursday 4/13; submit to myCourses dropbox by 11:59pm)
 Create mockups in Photoshop or another graphics program showing your intended design for the site. There should be one mockup for each wireframe you created. Once again, we'll do a brief critique in class before you turn them in to myCourses. 
 
-### Final Site (Posted on Github and on people.rit.edu by 8am Mon, 4/17)
+### Final Site (Posted on Github and on people.rit.edu by 8am Wednesday, 4/19)
 All files for the site must be posted to your shared GitHub repository. Only one group member has to post the site to their people.rit.edu account, in a guide directory inside of the igme230 directory; everyone else in the group should link to the final site on that person's account. (You can each post your own copy of the site if you'd like, to use as a portfolio piece.) 
 
 ## Page and Content Requirements
