@@ -82,7 +82,7 @@ Our last input field is going to be a pair of radio buttons. With radio buttons 
 
 ```html
 <div>
-    <label for "response">Response Requested?</label>
+    <label for="response">Response Requested?</label>
     <input type="radio" id="response1" name="response" value="yes">Yes, please!<br />
     <input type="radio" id="response2" name="response" value="no">No, thanks!
 </div>
