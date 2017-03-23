@@ -1,4 +1,4 @@
-# Week 8 Tuesday Exercise: CSS Flexbox (23 Feb 2017)
+# Week 8 Tuesday Exercise: CSS Flexbox (21 March 2017)
 
 ## Overview & Goals
 Using CSS Flexbox, you're going to create a new version of your project 1 page, incorporating an image of yourself, your name, and links to your exercises and projects for the class.  

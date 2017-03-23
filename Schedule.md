@@ -165,6 +165,10 @@ Choose **one** of the following:
 
 - **[Tuesday Exercise](weekly_materials/week8/week8tuesday.md)**: In this exercise you'll be creating a flexbox-based version of your project 1 page. 
 
+- **[Thursday Exercise](weekly_materials/week8/week8thursday.md)**: You'll be creating a web page using a variety of HTML form elements. You may find these sites helpful:
+  - [MDN: The native form widgets](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
+  - [Google Developers: Build Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
+
 ## <a name="week9"></a>Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers
 We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both HTML editors (VS Code and/or Brackets) and Chrome's developer tools. 
 
