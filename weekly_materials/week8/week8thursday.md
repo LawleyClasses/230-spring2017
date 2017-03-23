@@ -103,7 +103,7 @@ Take a look at the form now in a browser. It should show you all of the fields, 
 
 ## CSS Formatting
 
-Now you need to use form.css to make the font more attractive and usable. Start by defining a sans-serif font family for the entire page: 
+Now you need to use form.css to make the form more attractive and usable. Start by defining a sans-serif font family for the entire page: 
 
 ```css
 body {
@@ -126,7 +126,7 @@ form {
 h1 { text-align: center; }
 ```
 
-Next you'll format the fieldset, specifying a gray border with rounded instead of the default black square, and adding some space above it. Make the legend for the fieldset a bit bigger, too. 
+Next you'll format the fieldset, specifying a gray border with rounded borders instead of the default black square, and adding some space above it. Make the legend for the fieldset a bit bigger, too. 
 
 ```css
 fieldset {
@@ -143,7 +143,7 @@ legend {
     }
 ```
 
-We want to space the input items out a bit vertically. Since they're each contained in a div, we can change the margin for divs (which also will help with the divs containing the input elements outside of the fieldset): 
+You want to space the input items out a bit more vertically. Since they're each contained in a div, we can change the margin for divs to add some extra space above and below:
 
 ```css
 div {
@@ -152,7 +152,7 @@ div {
 }
 ```
 
-Next, you need to change the alignment of the input items so that the labels are right-aligned, creating a clean line of inputs. Because the labels are inline items rather than block items, you can't change the text alignment. However, there's a special display type of "inline-block" that keeps an item in the inline flow, but allows you to manipulate its properties as though it was a block-level item. If you use that, you can set the labels to a fixed width, and then align their content to the right without breaking the flow of the content: 
+Next, you need to change the alignment of the input items so that the labels are right-aligned, creating a clean line of inputs. Because the labels are inline items rather than block items, their text alignment can't be modified. However, there's a special display type of "inline-block" that keeps an item in the inline flow, but allows you to manipulate its properties as though it was a block-level item. If you use that, you can set the labels to a fixed width, and then align their content to the right without breaking the flow of the content: 
 
 ```css
 label {
@@ -162,7 +162,7 @@ label {
 }
 ```
 
-You also need to change the width of the input and textarea fields so that they all have the same width and border:
+You also should change the width of the input and textarea fields so that they all have the same width and border:
 
 ```css
 input, textarea {
