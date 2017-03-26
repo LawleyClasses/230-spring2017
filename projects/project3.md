@@ -50,12 +50,15 @@ All files for the site must be posted to your shared GitHub repository. Only one
 Component | Percentage of Project Grade |
 --------- | --------------------------- |
 Strategy & Scope Document | 5% |
-Structure Document & Diagram | 15% |
-Skeleton Wireframes | 15% |
-Surface | 15% |
-Final Site | 50% |
+Structure Document & Diagram | 10% |
+Skeleton Wireframes | 10% |
+Surface | 10% |
+Individual Roles & Responsibilities Document | 25%  | 
+Final Site | 40% |
 
 Each of the first four deliverables will be graded as Excellent (100%), Good (85%), Poor (70%), or Missing (0%). 
+
+The Individual Roles & Responsibilities document is in your group's Github repo. Each group member should add their responsibilities to the document at the start of the project, and write their own self-assessment when the project is turned in. You will be graded on a scale of 1 to 10; I will focus on the level of your participation with your group, the amount you contributed to the final project, and whether you completed the work that you committed to.  
 
 The final site will be graded using the same basic rubric as for the personal porfolio project. Once again, to get the last four "above and beyond" points you'll need to exceed my expectations on least one aspect of your site--use of code, quality of design, depth of content, etc. 
 
