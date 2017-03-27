@@ -176,7 +176,11 @@ We'll begin looking at Javascript this week, and its importance in building inte
   - [MDN: Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
   - [Chrome DevTools Overview](https://developer.chrome.com/devtools)
   
-Your second [group project](projects/project3.md) deliverable--a content inventory and information architecture diagram--is due in class on Thursday. 
+Your second [group project](projects/project3.md) deliverable--a content inventory and information architecture diagram--is due in class on Thursday. All group members should have filled out their portion of the roles and responsibilities document in your group Github repo by Thursday, as well. I will provide time in class on Tuesday for your groups to meet. 
+
+- **Thursday Readings**
+  - [W3Schools Javascript Tutorial](https://www.w3schools.com/js/default.asp): Do the first 14 pages (JS HOME through JS Objects)
+  - [W3Schools Javascript HTML DOM Tutorial](https://www.w3schools.com/js/js_htmldom.asp): Do the first six pages (DOM Intro through DOM CSS)
 
 ## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
 This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
