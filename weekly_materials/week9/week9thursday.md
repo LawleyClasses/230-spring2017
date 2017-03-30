@@ -144,7 +144,7 @@ Now delete the script from the body of the document, and put this code into the 
 
 		window.onload = init;
 
-	</script>>
+	</script>
 ```
 
 Save and reload the document--once again, you should see the Movies text in the heading replaced with Films.
