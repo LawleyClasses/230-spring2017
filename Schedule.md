@@ -182,6 +182,8 @@ Your second [group project](projects/project3.md) deliverable--a content invento
   - [W3Schools Javascript Tutorial](https://www.w3schools.com/js/default.asp): Do the first 14 pages (JS HOME through JS Objects)
   - [W3Schools Javascript HTML DOM Tutorial](https://www.w3schools.com/js/js_htmldom.asp): Do the first six pages (DOM Intro through DOM CSS)
 
+- **[Thursday Exercise](weekly_materials/week9/week9thursday.md)**: You'll be creating two web pages, one that uses JavaScript to modifies properties of elements on the page, and one that displays calculations based on user input. 
+
 ## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
 This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
 
