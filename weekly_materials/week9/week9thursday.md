@@ -1,6 +1,6 @@
 # Week 9 Thursday Exercise: Basic Javascript (3/30/2017)
 
-At the end of this exercise, you should have two HTML files uploaded to a week9 folder inside your igme230 directory on banjo.rit.edu: movies.html and calculator.html. These files must be uploaded by **noon on Saturday, April 1** for you to receive full credit. 
+At the end of this exercise, you should have uploaded two HTML files to a week9 folder inside your igme230 directory on banjo.rit.edu: one called movies.html and one called calculator.html. These files must be uploaded by **noon on Saturday, April 1** for you to receive full credit. 
 
 ## Overview & Goals
 Front-end programming, typically using JavaScript, is what is used to create interactive browser applications, experiences, and games. Today we'll start using JavaScript to modify elements on a page, and to start developing simple interactive experiences on web pages. 
@@ -57,6 +57,7 @@ Copy and paste the code below into a new HTML document called movies.html
 			text-align:center;
 		}
 	</style>
+	
 </head>
 <body>
 	<div id="content">
@@ -180,21 +181,20 @@ myH1.style.backgroundColor="black";
 
 Go ahead and add this code to the init() function in movies.html
 
-**Note**: In CSS, the background-color property has a dash in its name. However, dashes are not allowed in Javascript objects and properties. As a result, when referencing a property with a dash we need to instead use "camel case", where we remove the dash and capitalize the letter following it. So, for example: 
+**Note**: In CSS, the background-color property has a dash in its name. However, dashes are not allowed in Javascript objects and properties. As a result, when referencing a property with a dash we need to instead use "camel case", where we remove the dash and capitalize the letter following it. 
 
-This CSS style rule:
+So, for example, this CSS style rule:
 ```css
 h1{
 	font-family: Tahoma;
 }
 ```
-
 Becomes this Javascript property:
 ```javascript
 myH1.style.fontFamily = “Tahoma”;
 ```
 
-Because JavaScript is *Case Sensitive*, you absolutely have to get the capitalization correct!
+Also, because JavaScript is *Case Sensitive*, you absolutely have to get that capitalization right!
 
 
 **Executing JavaScript With Button Clicks**
@@ -210,8 +210,8 @@ Add this HTML to the movies.html file, above the footer.
 Inside the existing init() function, add the following line:
 
 ```javascript
-// when the #redButton is clicked, call the makeRed() function 
-document.getElementById("redButton").redButton.onclick = makeRed;
+// when #redButton is clicked, call the makeRed() function 
+document.getElementById("redButton").onclick = makeRed;
 ```
 
 Try saving the file and reloading it (with the console open). You should see an error that looks like this: `Uncaught ReferenceError: makeRed is not defined`. That tells us that there is no makeRed function--we can't call it until we write it! 
