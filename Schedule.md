@@ -187,6 +187,8 @@ Your second [group project](projects/project3.md) deliverable--a content invento
 ## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
 This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
 
+- **[Tuesday Exercise](weekly_materials/week10/week10tuesday.md)**: You'll use some new JavaScript functions to create a currency calculator. 
+
 Your third [group project](projects/project3.md) deliverable--wireframes for each page type on the site--is due in class on Thursday.
 
 ## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
