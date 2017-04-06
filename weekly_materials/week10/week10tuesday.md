@@ -1,4 +1,4 @@
-# Week 10 Thursday Exercise (4 April 2017): Javscript Event Listeners
+# Week 10 Tuesday Exercise (4 April 2017): Javscript Event Listeners
 
 At the end of this exercise, you should have uploaded your completed hp-calculator.html file to a week10 folder in your igme230 folder on banjo. 
 

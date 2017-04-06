@@ -191,6 +191,8 @@ This week is a continuation of basic Javascript programming, with a focus on HTM
 
 Your third [group project](projects/project3.md) deliverable--wireframes for each page type on the site--is due in class on Thursday.
 
+- **[Thursday Exercise](weekly_materials/week10/week10thursday.md)**: You'll change page content and then save those changes to cookies so that they can be applied when the page is reloaded. 
+
 ## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
 A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
 
