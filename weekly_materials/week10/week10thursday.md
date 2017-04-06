@@ -116,7 +116,7 @@ Now add the two `else if` statements to the function to handle the other two pos
 We can't test that function until we call it in some way, which we want to do when the user changes the value of a radio button. We can add an onclick attribute to each button, and use that to call the function and pass the correct variable to it, like this: 
 
 ```html
-<li><input type="radio" name="colors" value="wb" onclick="colorChange('wb')">White with black text</li>
+<li><input type="radio" name="colors" value="wb" id="wb" onclick="colorChange('wb')">White with black text</li>
 ```
 
 Add the appropriate code to each of the three radio buttons. When you're done, save and reload the page, and test the buttons to see if they work. If everything was done properly, you should see the background and text color change each time you click a button. 
