@@ -41,7 +41,7 @@ Create an HTML file called cookietest.html, and put it in the week10 folder. Pas
 	<div>
 		What color scheme would you prefer? 
         <ul>
-			<li><input type="radio" name="colors" id="wb" value="wb" checked>White with black text</li>
+			<li><input type="radio" name="colors" id="wb" value="wb">White with black text</li>
 			<li><input type="radio" name="colors" id="gb" value="gb">Gray with black text</li>
 			<li><input type="radio" name="colors" id="bg" value="bg">Black with gray text</li>
 		</ul>
@@ -50,7 +50,7 @@ Create an HTML file called cookietest.html, and put it in the week10 folder. Pas
 	<button id="save">Save My Preferences</button>
 
 	<script>
-	function init {
+	function init() {
 
 	}
 
