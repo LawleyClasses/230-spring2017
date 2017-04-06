@@ -79,7 +79,7 @@ function nameChange() {
 	}
 ```
 
-For this to work, we need to call the nameChange function when the contents of the username input field changes. We can user either the onkeyup listener, as we did in the HP calculator, or we can use the onblur or onchange listeners. With onkeyup, the function will be called with each new character we add; with onblur or onchange, it won't be called until your cursor is outside of the field, either because you tabbed out, or clicked elsewhere. 
+For this to work, we need to call the nameChange function when the contents of the username input field changes. We can use either the onkeyup listener, as we did in the HP calculator, or we can use the onblur or onchange listeners. With onkeyup, the function will be called with each new character we add; with onblur or onchange, it won't be called until your cursor is outside of the field, either because you tabbed out, or clicked elsewhere. 
 
 We're going to call the function in the input field itself, rather than in the script tag, like this:
 
