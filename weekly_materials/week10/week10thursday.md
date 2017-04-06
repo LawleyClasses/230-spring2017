@@ -147,6 +147,14 @@ var savedColor = document.querySelector('input[name="colors"]:checked').value;
 document.cookie = "colorPref=" + savedColor + "; path=/"; 
 ```
 
+There's only one small problem we still need to address--if you didn't click a color button, you'll get an error on this function, because it looks for the checked value. 
+
+To fix this, add the following line to your init function:
+
+```javascript
+document.getElementById('wb').checked = true;
+```
+
 Now we need to have the button on the page call the savePrefs function when it's clicked. We can do that in the HTML, like this:
 
 ```html
