@@ -101,7 +101,7 @@ colorChange(colorpref) {
 }
 ```
 
-In that function, we'll need an if/else/else statement to check what the value of colorpref is, and change the values for the body accordingly. Here's the first part of the function, which checks to see if it's the white/black color combination, changes colors, and sets that radio button as "checked". (We don't really need the last part now, but we'll want it when we start using cookies.)
+In that function, we'll need an if/else if/else if statement to check what the value of colorpref is, and change the values for the body accordingly. Here's the first part of the function, which checks to see if it's the white/black color combination, changes colors, and sets that radio button as "checked". (We don't really need the last part now, but we'll want it when we start using cookies.)
 
 ```javascript
 if (colorpref == "wb") {
@@ -111,7 +111,7 @@ if (colorpref == "wb") {
 }
 ```
 
-Now add the two `elseif` statements to the function to handle the other two possible color preferences. 
+Now add the two `else if` statements to the function to handle the other two possible color preferences. 
 
 We can't test that function until we call it in some way, which we want to do when the user changes the value of a radio button. We can add an onclick attribute to each button, and use that to call the function and pass the correct variable to it, like this: 
 
