@@ -196,6 +196,8 @@ Your third [group project](projects/project3.md) deliverable--wireframes for eac
 ## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
 A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
 
+-- **[Tuesday Exercise](weekly_materials/week11/week11tuesday.md)**: You'll implement some basic jQuery functionality on a page. 
+
 Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Tuesday. 
 
 ## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: HTML Canvas & SVG
