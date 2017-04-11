@@ -49,7 +49,7 @@ Add this to the body of your document:
     <li>GOL 2000 (open lab) &amp; GOL 2025 (back of open lab)</li>
     <li>GOL 2530 (Streaming Control Lab) </li>
     <li>GOL 2550 (New Media Lab)</li>
-<ul>
+</ul>
 ```
 
 Now we need to add the functionality in our script for clicking on the buttons to show or hide the list. As a reminder, a jQuery calls involves the $ operator to invoke the jQuery library, a selector, and an action. So the jQuery instruction to hide the #menu element would look like this: 
