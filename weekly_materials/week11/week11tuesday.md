@@ -106,7 +106,7 @@ Then change your HTML for the list to this:
         <li>GOL 2000 (open lab) &amp; GOL 2025 (back of open lab)</li>
         <li>GOL 2530 (Streaming Control Lab) </li>
         <li>GOL 2550 (New Media Lab)</li>
-    <ul>
+    </ul>
 </div>
 ```
 
@@ -117,7 +117,7 @@ Rather than creating a separate function for the slider behavior, we're going to
 ```javascript
 $("selector").method(function() {
     $("selector").method("property");
-    });
+});
 ```
 
 Add the necessary code to your `<script>` tag, replacing each of the selectors with the appropriate div, and the methods with the click listener and the slideToggle action. For the speed property on slideToggle, use "slow".
