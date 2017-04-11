@@ -18,7 +18,7 @@ Create an HTML file called jquery.html, and put it in a folder called week11. Pa
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>jQuery Experiments</title>
+    <title>jQuery Experiments</title>
 </head>
 <body>
     
@@ -94,7 +94,8 @@ Add this style information to the head of your document:
             }
         #panel {
             padding: 50px 5px; 
-        } 
+        }
+</style>
 ```
 
 Then change your HTML for the list to this:
