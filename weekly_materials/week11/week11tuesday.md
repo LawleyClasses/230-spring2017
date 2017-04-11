@@ -79,7 +79,9 @@ Add those to your `<script>` tag, and test your page. The hide button should wor
 Once you have the hide button working, add the code for the show button. (You should be able to figure that out on your own--the show() method works the same way as the hide() method!)
 
 ### Part 3: Creating Sliding Panels With jQuery
-jQuery has a number of built-in methods that provide animation and transition effects. For instance, you can have elements slide up or down, or toggle between the two. 
+Now you're going to add two new divs to the page. You'll put the menu inside of one, and add click behavior to the other to trigger the jQuery slide behavior. Do *not* delete your buttons or the scripts you just wrote for them; they should still function to hide and show the menu on the sliding panel. When you're done, your page should work like this: https://youtu.be/f1M2Zv29z-4
+
+jQuery has some built-in methods that provide animation and transition effects. For instance, you can use it to slide elements up or down, or toggle between the two. 
 
 Add this style information to the head of your document:
 
