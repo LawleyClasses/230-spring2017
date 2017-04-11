@@ -55,7 +55,7 @@ Add this to the body of your document:
 Now we need to add the functionality in our script for clicking on the buttons to show or hide the list. As a reminder, a jQuery calls involves the $ operator to invoke the jQuery library, a selector, and an action. So the jQuery instruction to hide the #menu element would look like this: 
 
 ```javascript
-$(#menu).hide()
+$(#menu).hide();
 ```
 
 But we don't want that to happen when the page loads--we want it to happen when the user clicks the button labeled "Hide List". That means we need to put the jQuery instruction inside a function, and then bind the function to an event. 
