@@ -121,6 +121,8 @@ $("selector").method(function() {
 });
 ```
 
+***Note:*** Do not change the word "function" up above. That is a key word that tells jQuery that we're adding instructions to be executed when the initial method is called. It works very much like defining a function outside of the method, except that you don't need to give this function a name. You will *only* be changing the selectors, methods, and property values. 
+
 Add the necessary code to your `<script>` tag, replacing each of the selectors with the appropriate div, and the methods with the click listener and the slideToggle action. For the speed property on slideToggle, use "slow".
 
 Test it to make sure it works. 
