@@ -198,7 +198,9 @@ A great deal of the Javascript on the web uses a freely-available library of cod
 
 -- **[Tuesday Exercise](weekly_materials/week11/week11tuesday.md)**: You'll implement some basic jQuery functionality on a page. 
 
-Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Tuesday. 
+-- **[Thursday Exercise](weekly_materials/week11/week11thursday.md)**: You'll use the jQuery UI library to extend jQuery's functionality and add UI enhancements to page. 
+
+Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Thursday. 
 
 ## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: HTML Canvas & SVG
 While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. This week we'll take a brief look at two approaches for this: the HTML Canvas element, and Scalable Vector Graphics (SVG). 
