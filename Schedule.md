@@ -234,4 +234,4 @@ We'll talk about how web servers function, and how you can use .htaccess files t
 On Tuesday, we'll talk about the various options for extending your web development skills--both through downstream classes, and through tutorials and other online resources. On Thursday, you'll take the final practical exam for the class. 
 
 ## <a name="finals"></a>Finals Week: Practical Exam Makeup & Final Project Due
-If you fail the final practical exam in week 15 (a score lower than 7/10), you will need to take the makeup version during our final exam time slot (Tuesday, May 16, ) your final individual project will be due this week. 
+If you fail the final practical exam in week 15 (a score lower than 7/10), you will need to take the makeup version during our final exam time slot (Tuesday, May 16, ) your [final individual project](projects/project4.md) will be due this week. 

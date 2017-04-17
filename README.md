@@ -47,7 +47,7 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 - **[Project 3](./projects/project3.md)**: Group Project (20% of final grade, due 17 April 2017)
 
-- **Project 4**: Final Personal Project: TBD (20% of final grade, due finals week)
+- **[Project 4](./projects/project4.md)**: Final Personal Project (20% of final grade, due 16 May 2017)
 
 ### In-Class Exercises (20% of final grade)
 Most in-class exercises will be due at the end of the class in which it is introduced. With more challenging exercises, I will often extend the due date until the weekend. Exercises and associated materials will be always be uploaded to that week's folder in this Github repository, and linked from the [Schedule.md](Schedule.md) file with information on their required submission date and time.
@@ -61,7 +61,6 @@ There will be a final practical exam in the class, which will require you to dem
 ## Course Topics & Schedule
 The schedule of topics, readings, and projects can be found in the [Schedule.md](./Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
- 
 ## Additional Policies
 
 ### Important RIT Deadlines
