@@ -12,10 +12,10 @@
 - [Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers](#week9)
 - [Week 10 (Apr 4/6): Javacript Cont'd: Events/Listeners, CSS](#week10)
 - [Week 11 (Apr 11/13): JQuery](#week11)
-- [Week 12 (Apr 18/20): Creating Graphics with Text: HTML Canvas & SVG](#week12)
-- [Week 13 (Apr 25/27): Web Server Basics, LAMP Concepts & WordPress Install](#week13)
-- [Week 14 (May 2/4): PHP & MySQL Basics](#week14)
-- [Week 15 (May 9/11): WordPress Themes & Final Practical](#week15)
+- [Week 12 (Apr 18/20): Creating Graphics with Code: SVG & HTML Canvas](#week12)
+- [Week 13 (Apr 25/27): Using JavaScript with Web-Based Graphics](#week13)
+- [Week 14 (May 2/4): Web Server Basics](#week14)
+- [Week 15 (May 9/11): Next Steps & Final Practical](#week15)
 - [Finals Week: Practical Exam Makeup](#finals)
 
 ## <a name="week1"></a>Week 1 (Jan 24/26): Overview: Syllabus, Expectations, Tools
@@ -196,25 +196,42 @@ Your third [group project](projects/project3.md) deliverable--wireframes for eac
 ## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
 A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
 
--- **[Tuesday Exercise](weekly_materials/week11/week11tuesday.md)**: You'll implement some basic jQuery functionality on a page. 
+- **[Tuesday Exercise](weekly_materials/week11/week11tuesday.md)**: You'll implement some basic jQuery functionality on a page. 
 
--- **[Thursday Exercise](weekly_materials/week11/week11thursday.md)**: You'll use the jQuery UI library to extend jQuery's functionality and add UI enhancements to page. 
+- **[Thursday Exercise](weekly_materials/week11/week11thursday.md)**: You'll use the jQuery UI library to extend jQuery's functionality and add UI enhancements to page. 
 
 Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Thursday. 
 
-## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: HTML Canvas & SVG
-While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. This week we'll take a brief look at two approaches for this: the HTML Canvas element, and Scalable Vector Graphics (SVG). 
+## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: SVG and HTML Canvas
+While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. On Tuesday we'll look at Scalable Vector Graphics (SVG), and on Thursday we'll look at HTML Canvas. 
+
+- **[Tuesday Exercise](weekly_materials/week12/week12tuesday.md)**: Some basic practice with SVG graphics. 
+
+Useful readings comparing Canvas and SVG:
+- [Sitepoint: Canvas vs SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
+- [MSDN: SVG vs Canvas: How to Choose](https://msdn.microsoft.com/en-us/library/gg193983(v=vs.85).aspx#Using_Canvas_AndOr_SVG)
+
+Useful readings on SVG:
+- [W3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
+- [MDN SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+- [Adobe Creative Cloud: CSS vs SVG](https://blogs.adobe.com/creativecloud/css-vs-svg-the-final-roundup/)
+- [Up and Running with SVG](http://svgtutorial.com/)
+
+Useful readings on HTML Canvas:
+- [W3Schools HTML5 Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp)
+- [MDN HTML Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+- [Jenkov.com HTML5 Canvas Tutorial](http://tutorials.jenkov.com/html5-canvas/index.html)
 
 Your final [group project](projects/project3.md) site is due on Wednesday morning of this week.
 
-## <a name="week13"></a>Week 13 (Apr 25/27): Web Server Basics
-We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. 
+## <a name="week13"></a>Week 13 (Apr 25/27): Using JavaScript with Web-Based Graphics
 
-## <a name="week14"></a>Week 14 (May 2/4): LAMP Concepts & WordPress Install
-The majority of web servers on the Internet use Apache software running on a Linux operating system. Many web applications also use mySQL databases, and the PHP server-side scripting language. The combination of these four technologies is referred to as "LAMP" (Linux, Apache, mySQL, and PHP) This week we'll install a copy of WordPress onto a LAMP server, and talk about dynamic database-driven websites.  
 
-## <a name="week15"></a>Week 15 (May 9/11): WordPress Themes & Practical Exam
-Once you understand CSS, PHP, and MySQL, it becomes much easier to modify WordPress themes and even create your own. On Tuesday, we'll look at what goes into a WordPress theme. And on Thursday, you'll take the final practical exam for the class. 
+## <a name="week14"></a>Week 14 (May 2/4): Web Server Basics
+We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. We'll also talk about the "LAMP" (Linux, Apache, mySQL, and PHP) web development environment, and options you have for web development environments--both at RIT and externally. 
 
-## <a name="finals"></a>Finals Week: Practical Exam Makeup
-In addition to the makeup practical exam, your final individual project will be due this week. 
+## <a name="week15"></a>Week 15 (May 9/11): Next Steps & Practical Exam
+On Tuesday, we'll talk about the various options for extending your web development skills--both through downstream classes, and through tutorials and other online resources. On Thursday, you'll take the final practical exam for the class. 
+
+## <a name="finals"></a>Finals Week: Practical Exam Makeup & Final Project Due
+If you fail the final practical exam in week 15 (a score lower than 7/10), you will need to take the makeup version during our final exam time slot (Tuesday, May 16, ) your final individual project will be due this week. 
