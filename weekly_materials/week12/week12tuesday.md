@@ -26,7 +26,7 @@ Inside of the svg element, we can describe a vector graphic element, like this:
 <circle cx="50" cy="50" r="25" fill="red" stroke="black" stroke-width="2" />
 ```
 
-That should result in a circle, with cx and cy defining the x and y coordinates of the circle, r defining its radius, and the remaining attributes describing the stroke and fill for the object. Save the file, and open it in a browser. You should see a red circle with a black border. 
+That should result in a circle, with cx and cy defining the x and y coordinates of the *center* of the circle, r defining its radius, and the remaining attributes describing the stroke and fill for the object. Save the file, and open it in a browser. You should see a red circle with a black border. 
 
 (If you omit cx and cy, the default coordinates will be 0,0. Try removing the cx and cy attributes from the circle object, saving the file, and reloading the page. What happens? Put the cx and cy values back before moving on.)
 
@@ -36,14 +36,14 @@ Now let's add a rectangle to the SVG. Place this after the circle definition:
 <rect width="200" height="200" x="50" y="50" fill="black" />
 ```
 
-Save and reload the page; you should see a black rectangle, with its top/left coordinates in the same place as the center of the circle. Because SVG draws the elements in the order they appear in the file, the rectangle is drawn on top of the circle. If you wanted the circle on top, you could reorder the two lines. 
+Unlike the circle, the x and y coordinates for a rectangle describe the location of its top left corner, rather than its center. Save and reload the page; you should see a black rectangle, with its top/left coordinates in the same place as the center of the circle. Because SVG draws the elements in the order they appear in the file, the rectangle is drawn on top of the circle. If you wanted the circle on top, you could reorder the two lines. 
 
 You can see a list of other SVG shapes and elements, including ellipses, polygons, lines, paths, and text, and the syntax for creating them, in the [W3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp).
 
 ## Part 2: Including SVG in HTML Documents
-While your browser can display an SVG directly, you typically will want to include one or SVGs in an HTML page, which also allows you to use CSS and/or JavaScript to manipulate the graphic. 
+While your browser can display SVG files directly, you typically will want to include one or SVGs in the context of an HTML page with other content; this also allows you to JavaScript to manipulate the graphic. 
 
-There are three ways to include an SVG file in a page. The first is to treat it the same way you would a raster image, using the `<img>` tag. 
+There are three ways to include an SVG file in a page. The first is to treat it the same way you would a raster image, using the `<img>` tag to reference the external SVG file. The second is to embed the SVG directly in the HTML. And the third is to use JavaScript to load the external SVG file. In today's exercise, you'll be using both the first and the second approaches; on Thursday we'll add the third. 
 
 Create a new HTML file in your week12 folder, and call it svgdemo.html. In the body of the document, add an img tag that points to your simple.svg file. Save the new HTML document, and load it in a browser; you should see your SVG displayed. It's likely, however, that part of the image will be cropped. This is because your browser doesn't actually know how big the SVG image is. We can fix this in either of two ways--we can add a height and width to the image tag, or we can add a height and width inside the SVG itself. The latter is a better choice, so let's do that. 
 
@@ -51,7 +51,7 @@ Your SVG needs to be at least 250px in both width and length, to account for the
 
 The problem with adding an SVG with the img tag, however, is that it doesn't load the individual components of the SVG into the DOM--the SVG is treated as a single img element. Use the element inspector (in Chrome, right-click on the document and choose "Inspect") to view the DOM for the svgdemo.html page. You'll see that there's only one img element in the body of the document. 
 
-Another approach to displaying SVG graphics in a document is embedding the SVG directly inside the HTML. 
+Now we'll try embedding the SVG directly inside the HTML instead. 
 
 Remove the `<img>` tag from your svgdemo.html file, and paste the contents of your simple.svg file into the body of the document. Save the file, and display it. It should look exactly the same as it did when you used the img tag. However, when you use the document inspector, you should see that each element in the SVG is now part of the DOM, meaning we can independently manipulate them with CSS and/or JavaScript. 
 
