@@ -58,7 +58,7 @@ GitHub Set Up with README | 2 |
 Navigation page including links to illustrations and documentation | 3 |
 Interactive component to navigation page | 1 |
 Three full-screen illustration/visualization pages | 3 |
-At *least* one rendered raster or bitmap image per page | 3 | 
+At *least* one rendered raster or vector image per page | 3 | 
 Motion graphics using CSS and/or JS on each page | 3 |
 Documentation page discussing techniques used | 1 |
 All pages use consistent and thoughtful design | 4 |
