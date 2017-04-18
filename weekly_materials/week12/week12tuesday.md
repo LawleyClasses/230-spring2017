@@ -1,7 +1,7 @@
 # Week 12 Tuesday Exercise (18 April 2017): SVG Basics
 
 ## Overview & Goals
-Today you'll learn how to include Scalable Vector Graphics (SVG) in a web page, and manipulate SVGs using jQuery. This exercise is loosely based on Adam Coulombe's "[Interactive Infographic with SVG and CSS Animations](https://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)" tutorial.  
+Today you'll learn how to create Scalable Vector Graphics (SVG), and include them in a web page.
 
 You may find these pages helpful: 
 
