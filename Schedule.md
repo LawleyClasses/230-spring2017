@@ -203,29 +203,16 @@ A great deal of the Javascript on the web uses a freely-available library of cod
 Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Thursday. 
 
 ## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: SVG and HTML Canvas
-While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. On Tuesday we'll look at Scalable Vector Graphics (SVG), and on Thursday we'll look at HTML Canvas. 
+While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. On Tuesday we'll look at Scalable Vector Graphics (SVG), and on Thursday I'll talk briefly about HTML Canvas. 
 
-- **[Tuesday Exercise](weekly_materials/week12/week12tuesday.md)**: Some basic practice with SVG graphics. 
-
-Useful readings comparing Canvas and SVG:
-- [Sitepoint: Canvas vs SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
-- [MSDN: SVG vs Canvas: How to Choose](https://msdn.microsoft.com/en-us/library/gg193983(v=vs.85).aspx#Using_Canvas_AndOr_SVG)
-
-Useful readings on SVG:
-- [W3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
-- [MDN SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
-- [Adobe Creative Cloud: CSS vs SVG](https://blogs.adobe.com/creativecloud/css-vs-svg-the-final-roundup/)
-- [Up and Running with SVG](http://svgtutorial.com/)
-
-Useful readings on HTML Canvas:
-- [W3Schools HTML5 Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp)
-- [MDN HTML Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- [Jenkov.com HTML5 Canvas Tutorial](http://tutorials.jenkov.com/html5-canvas/index.html)
+- **[Tuesday Exercise](weekly_materials/week12/week12tuesday.md)**: Some basic practice with SVG graphics.
+- **[Thursday Exercise](weekly_materials/week12/week12thursday.md)**: A refresher on GitHub
 
 Your final [group project](projects/project3.md) site is due on Wednesday morning of this week.
 
-## <a name="week13"></a>Week 13 (Apr 25/27): Using JavaScript with Web-Based Graphics
+## <a name="week13"></a>Week 13 (Apr 25/27): Techniques for Web Graphics & Illustrations
 
+Your proposal for your [final project](projects/project4.md) is due this week. 
 
 ## <a name="week14"></a>Week 14 (May 2/4): Web Server Basics
 We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. We'll also talk about the "LAMP" (Linux, Apache, mySQL, and PHP) web development environment, and options you have for web development environments--both at RIT and externally. 
