@@ -21,13 +21,9 @@ In general, it's best if you edit files with a local editor, and push them to th
 
 The "md" extension means the file uses a markup language called Markdown, which is a much simpler markup language than HTML. Most of the content in our class repo, including this exercise, uses Markdown. 
 
-Click on the README.md file in the file listing at the top. You should see a screen similar to this:
+Click on the README.md file in the file listing at the top. In the top right corner, you'll see an edit icon (it's pencil). Click that, and you'll be given an editable version of the document. Modify it to look something like this:
 
-![Default README Page](readme-starting.png)
-
-In the top right corner, you'll see an edit icon (it's pencil). Click that, and you'll be given an editable version of the document. Modify it to look something like this:
-
-![Editing README Page](readme-editing.png)
+![Editing README Page](readme-edited.png)
 
 The # indicates a level 1 heading. Links are designated by placing the link text in square brackets, and then placing the target URL in parentheses after it. GitHub has a nice [guide to Markdown syntax](https://guides.github.com/features/mastering-markdown/). 
 
