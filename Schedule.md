@@ -18,7 +18,7 @@
 - [Week 15 (May 9/11): Next Steps & Final Practical](#week15)
 - [Finals Week: Practical Exam Makeup](#finals)
 
-## <a name="week1"></a>Week 1 (Jan 24/26): Overview: Syllabus, Expectations, Tools
+## <a name="week1">Week 1</a> (Jan 24/26): Overview: Syllabus, Expectations, Tools
 I will review the syllabus, goals, and requirements for class. We will discuss the tools and technologies we'll be using for communication, collaboration, and content creation. 
 
 - **Tuesday Readings**
@@ -37,7 +37,7 @@ I will review the syllabus, goals, and requirements for class. We will discuss t
 - **[Thursday Exercise](./weekly_materials/week1/thursdayExercise.md)**
   - We will review the functionality of VS Code in class, working together in class to take a text file and mark it up as valid HTML. We will also add a configuration file to your banjo.rit.edu account to change its default behavior with web pages. 
 
-## <a name="week2"></a>Week 2 (Jan 31/Feb 2): HTML & CSS, beyond the basics
+## <a name="week2">Week 2</a> (Jan 31/Feb 2): HTML & CSS, beyond the basics
 A deeper dive into aspects of HTML and CSS that aren't covered in the prereq classes: validation, semantic markup, CSS positioning, complex CSS selector types, and more.
 
 - **Tuesday Readings**
@@ -55,7 +55,7 @@ A deeper dive into aspects of HTML and CSS that aren't covered in the prereq cla
 
 [Project 1](projects/project1.md) (a personal page) is due at the end of this week (11:59pm on Saturday, February 4th)
   
-## <a name="week3"></a>Week 3 (Feb 7/9): Web Design & Accessibility
+## <a name="week3">Week 3</a> (Feb 7/9): Web Design & Accessibility
 When we talk about "web design," we're actually talking about a much wider range of concepts than graphic design--we're also talking about interaction design, usability, and accessibility. This week we'll talk about the range of design issues related to the web. On Tuesday we'll talk about the intersection of graphic design and interaction design, including Jesse James Garrett's excellent diagram showing the various elements of user experience. In class, I'll have you break into groups to look at and critique a number of websites.
 
 On Thursday we'll talk about accessibility for the web, and I'll have you assess the usability of some pages, and then edit a page to correct accessibility errors. 
@@ -93,7 +93,7 @@ On Thursday we'll talk about accessibility for the web, and I'll have you assess
 - **[Thursday Exercise (Accessibility Writeup)](weekly_materials/week3/thursdayExercise.md)**
 
 
-## <a name="week4"></a>Week 4 (Feb 14/16): Online Portfolios & Web Workflow 
+## <a name="week4">Week 4</a> (Feb 14/16): Online Portfolios & Web Workflow 
 Your second project is a portfolio site about yourself and your work. This week we'll look at a variety of approaches to online portfolios, and talk about content, organization, and design. We'll also begin to talk about workflow for websites, particularly version control and collaborative work, and you'll be introduced to Git and Github for tracking and maintaining your HTML and CSS files.  
 
 - **Tuesday Readings**
@@ -110,7 +110,7 @@ Do one of the following tutorials *before* class on Thursday. I recommend the fi
   
 - **[Thursday Exercise](weekly_materials/week4/Git%20In-Class%20Exercise.pdf)**
 
-## <a name="week5"></a>Week 5 (Feb 21/23): Responsive Design & CSS Media Queries
+## <a name="week5">Week 5</a> (Feb 21/23): Responsive Design & CSS Media Queries
 Mobile devices now make up more than half of the traffic to major websites. And it's still the case that people regularly print out web pages for a variety of reasons. That means web designers need to make sure their pages work on a variety of screens, and in print format--not just on high-resolution computer monitors. The process of creating HTML and CSS that will adapt to a variety of devices is called responsive design. CSS Media Queries allow responsive design to work more effectively by determining how/where the page will be displayed. 
 
 - **Tuesday Readings**
@@ -128,7 +128,7 @@ On Thursday we'll dive more deeply into responsive design concepts.
 
 - **[Thursday Exercise](weekly_materials/week5/thursdayExercise.md)**: In this exercise you'll be adding CSS to a simple web page to create a basic responsive version. 
  
-## <a name="week6"></a>Week 6 (Feb 28/Mar 2): CSS Grids and Frameworks
+## <a name="week6">Week 6</a> (Feb 28/Mar 2): CSS Grids and Frameworks
 Many responsive websites are built using a pre-existing framework of CSS (and often Javscript, as well) that enables the developer to focus on content and design rather than the underlying code necessary for responsive functionality. 
 
 Because I will be in San Francisco for GDC this week, you will work through these tutorials and then implement the homework exercise on your own. 
@@ -140,7 +140,7 @@ Because I will be in San Francisco for GDC this week, you will work through thes
 
 - **[Week 6 Exercise](weekly_materials/week6/week6Exercise.md)**: In this exercise you'll duplicate a web page layout using a CSS Framework.  
 
-## <a name="week7"></a>Week 7 (Mar 7/9): CSS Animation & Transitions
+## <a name="week7">Week 7</a> (Mar 7/9): CSS Animation & Transitions
 Modern CSS can control more than just the static presentation of web pages; it can also be used for motion graphics. This week, we'll look at CSS animation and transition effects. 
 
 - **Tuesday Readings**
@@ -152,7 +152,7 @@ Modern CSS can control more than just the static presentation of web pages; it c
 ## SPRING BREAK
 [Project 2](./projects/project2.md) (a personal portfolio site using responsive design) is due at the end of spring break. 
 
-## <a name="week8"></a>Week 8 (Mar 21/23): A Few Loose Ends: CSS Flexbox, & HTML Forms
+## <a name="week8">Week 8</a> (Mar 21/23): A Few Loose Ends: CSS Flexbox, & HTML Forms
 Before we move on from HTML and CSS to Javascript, there are a few more concepts we need to look at. On Tuesday, we'll look at CSS Flexbox, a relatively new approach to creating flexible, responsive page layouts. While it's only supported by relatively recent browsers, it's starting to be widely used in web design and development. And on Thursday, we'll look at HTML forms, which will become more important when we start writing code to work with them. 
 
 This week I'll also be assigning you to groups for [project 3](projects/project3.md), and your first deliverable will be due at the end of the week. 
@@ -169,7 +169,7 @@ Choose **one** of the following:
   - [MDN: The native form widgets](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
   - [Google Developers: Build Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
 
-## <a name="week9"></a>Week 9 (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers
+## <a name="week9">Week 9</a> (Mar 28/30): Javascript Intro: Syntax, DOM, and Debuggers
 We'll begin looking at Javascript this week, and its importance in building interactivity into websites. This week will be the basics--syntax, the Document Object Model, and basic debugging using both HTML editors (VS Code and/or Brackets) and Chrome's developer tools. 
 
 - **Tuesday Readings**
@@ -184,7 +184,7 @@ Your second [group project](projects/project3.md) deliverable--a content invento
 
 - **[Thursday Exercise](weekly_materials/week9/week9thursday.md)**: You'll be creating two web pages, one that uses JavaScript to modifies properties of elements on the page, and one that displays calculations based on user input. 
 
-## <a name="week10"></a>Week 10 (Apr 4/6): Javascript Programming: Events/Listeners, CSS
+## <a name="week10">Week 10</a> (Apr 4/6): Javascript Programming: Events/Listeners, CSS
 This week is a continuation of basic Javascript programming, with a focus on HTML events and event listeners, as well as the interaction between Javascript and CSS. 
 
 - **[Tuesday Exercise](weekly_materials/week10/week10tuesday.md)**: You'll use some new JavaScript functions to create a currency calculator. 
@@ -193,7 +193,7 @@ Your third [group project](projects/project3.md) deliverable--wireframes for eac
 
 - **[Thursday Exercise](weekly_materials/week10/week10thursday.md)**: You'll change page content and then save those changes to cookies so that they can be applied when the page is reloaded. 
 
-## <a name="week11"></a>Week 11 (Apr 11/13): JQuery
+## <a name="week11">Week 11</a> (Apr 11/13): JQuery
 A great deal of the Javascript on the web uses a freely-available library of code called JQuery (which, in fact, was originally written by an RIT student!). This week we'll look at JQuery and how to use it in your pages. 
 
 - **[Tuesday Exercise](weekly_materials/week11/week11tuesday.md)**: You'll implement some basic jQuery functionality on a page. 
@@ -202,7 +202,7 @@ A great deal of the Javascript on the web uses a freely-available library of cod
 
 Your fourth [group project](projects/project3.md) deliverable--design mockups for each of your wireframes--is due in class on Thursday. 
 
-## <a name="week12"></a>Week 12 (Apr 18/20): Creating Graphics with Code: SVG and HTML Canvas
+## <a name="week12">Week 12</a> (Apr 18/20): Creating Graphics with Code: SVG and HTML Canvas
 While most of the graphics we've worked with up until now have been images created in other programs, it's also possible to use markup languages to draw graphics on the screen. On Tuesday we'll look at Scalable Vector Graphics (SVG), and on Thursday I'll talk briefly about HTML Canvas. 
 
 - **[Tuesday Exercise](weekly_materials/week12/week12tuesday.md)**: Some basic practice with SVG graphics.
@@ -210,15 +210,15 @@ While most of the graphics we've worked with up until now have been images creat
 
 Your final [group project](projects/project3.md) site is due on Wednesday morning of this week.
 
-## <a name="week13"></a>Week 13 (Apr 25/27): Techniques for Web Graphics & Illustrations
+## <a name="week13">Week 13</a> (Apr 25/27): Techniques for Web Graphics & Illustrations
 
 Your proposal for your [final project](projects/project4.md) is due this week. 
 
-## <a name="week14"></a>Week 14 (May 2/4): Web Server Basics
+## <a name="week14">Week 14</a> (May 2/4): Web Server Basics
 We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including enabling password authentication and creating custom 404 pages. We'll also talk about the "LAMP" (Linux, Apache, mySQL, and PHP) web development environment, and options you have for web development environments--both at RIT and externally. 
 
-## <a name="week15"></a>Week 15 (May 9/11): Next Steps & Practical Exam
+## <a name="week15">Week 15</a> (May 9/11): Next Steps & Practical Exam
 On Tuesday, we'll talk about the various options for extending your web development skills--both through downstream classes, and through tutorials and other online resources. On Thursday, you'll take the final practical exam for the class. 
 
-## <a name="finals"></a>Finals Week: Practical Exam Makeup & Final Project Due
+## <a name="finals">Finals Week</a>: Practical Exam Makeup & Final Project Due
 If you fail the final practical exam in week 15 (a score lower than 7/10), you will need to take the makeup version during our final exam time slot (Tuesday, May 16, ) your [final individual project](projects/project4.md) will be due this week. 
