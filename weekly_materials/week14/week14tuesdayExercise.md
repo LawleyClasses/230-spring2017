@@ -49,7 +49,7 @@ Note that the path needs to be a complete path from the root of people.rit.edu d
 
 3) Upload the week14 directory and the two files to your igme230 directory on banjo. Make sure you set the permissions properly for the directory (755) and both files (644). 
 
-4) Try going to a nonexistent page in your week14 directory--something like this: `http://people.rit.edu/youruserid/igme230/nothere.html` . If you've done everything properly, you should see the URL you typed in the location bar, but the custom error page that you created in step 1 displayed in the browser. If it doesn't work, ask for help!
+4) Try going to a nonexistent page in your week14 directory--something like this: `http://people.rit.edu/youruserid/igme230/week14/nothere.html` . If you've done everything properly, you should see the URL you typed in the location bar, but the custom error page that you created in step 1 displayed in the browser. If it doesn't work, ask for help!
 
 ## Due Date
-You must have this exercise completed by 10am on Wednesday, May 3rd. On Saturday, my grader will go to `http://people.rit.edu/youruserid/230/week1`, check to make sure all the files are there, and load the html file to make sure it bears some resemblance to what I asked for. 
+You must have this exercise completed by 10am on Wednesday, May 3rd.
