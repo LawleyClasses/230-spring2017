@@ -219,8 +219,7 @@ Your proposal for your [final project](projects/project4.md) is due this week.
 ## <a name="week14">Week 14</a> (May 2/4): Web Server Basics
 We'll talk about how web servers function, and how you can use .htaccess files to modify the way your pages and directories function, including creating custom 404 pages and enabling password authentication. 
 
-- **[Tuesday Exercise](weekly_materials/week14/week14tuesdayExercise.md)**: Using .htaccess files to turn off the Pagespeed module for your files on banjo.rit.edu, and create custom 404 error page. 
-
+- **[Tuesday Exercise](weekly_materials/week14/week14tuesday.md)**: Using .htaccess files to turn off the Pagespeed module for your files on banjo.rit.edu, and create custom 404 error page. 
 
 ## <a name="week15">Week 15</a> (May 9/11): Next Steps & Practical Exam
 On Tuesday, we'll talk about the various options for extending your web development skills--both through downstream classes, and through tutorials and other online resources. We'll also talk about the "LAMP" (Linux, Apache, mySQL, and PHP) web development environment, and options you have for creating your own websites--both at RIT and externally. On Thursday, you'll take the final practical exam for the class. 
