@@ -212,7 +212,7 @@ Your final [group project](projects/project3.md) site is due on Wednesday mornin
 
 ## <a name="week13">Week 13</a> (Apr 25/27): Techniques for Web Graphics & Illustrations
 
-Here's an [example practical exam](example-practical.pdf) for you to work through as practice. The real practical exam will be similar to this. It will have different CSS, Javascript, and  server-side requirements--but there won't be anything you haven't seen in an in-class exercise this semester. 
+Here's an [example practical exam](weekly_materials/week13/example-practical.pdf) for you to work through as practice. The real practical exam will be similar to this. It will have different CSS, Javascript, and  server-side requirements--but there won't be anything you haven't seen in an in-class exercise this semester. 
 
 Your proposal for your [final project](projects/project4.md) is due this week. 
 
