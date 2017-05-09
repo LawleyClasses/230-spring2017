@@ -221,8 +221,13 @@ We'll talk about how web servers function, and how you can use .htaccess files t
 
 - **[Tuesday Exercise](weekly_materials/week14/week14tuesday.md)**: Using .htaccess files to turn off the Pagespeed module for your files on banjo.rit.edu, and create custom 404 error page. 
 
+- **[Thursday Exercise](weekly_materials/week14/week14thursday.md)**: Basic PHP functions. 
+
 ## <a name="week15">Week 15</a> (May 9/11): Next Steps & Practical Exam
 On Tuesday, we'll talk about the various options for extending your web development skills--both through downstream classes, and through tutorials and other online resources. We'll also talk about the "LAMP" (Linux, Apache, mySQL, and PHP) web development environment, and options you have for creating your own websites--both at RIT and externally. On Thursday, you'll take the final practical exam for the class. 
+
+I've created an *optional* exercise that teaches you how to make a working contact form for your site that generates an email message. This will not be graded, but it's a useful thing to know how to do. 
+- **[Optional Tuesday Exercise](weekly_materials/week15/week15tuesday.md)**: Creating a Contact Form with a PHP Script
 
 ## <a name="finals">Finals Week</a>: Practical Exam Makeup & Final Project Due
 If you fail the final practical exam in week 15 (a score lower than 7/10), you will need to take the makeup version during our final exam time slot (Tuesday, May 16, ) your [final individual project](projects/project4.md) will be due this week. 
