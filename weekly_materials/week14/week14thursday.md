@@ -1,4 +1,4 @@
-# Week 14 Tuesday Exercise (2 May 2017)
+# Week 14 Thursday Exercise (4 May 2017)
 
 ## Overview & Goals
 
